@@ -1,0 +1,1213 @@
+sale_id,time_id,product_id,customer_id,location_id,order_mongo_id,quantity,unit_price,total_amount,tax_amount,shipping_amount,payment_method,order_status,is_paid,is_delivered
+1,60,1,18,1,696668c3eef41c8eeab0b898,1,1199.0,1199.0,227.81,0.0,Bank Transfer,Delivered,True,True
+2,232,9,12,2,696668c3eef41c8eeab0b89a,3,1099.0,3297.0,626.43,0.0,PayPal,Refunded,False,False
+3,59,22,30,3,696668c3eef41c8eeab0b89c,3,1299.0,3897.0,373.29,0.0,Bank Transfer,Delivered,True,True
+4,59,17,30,3,696668c3eef41c8eeab0b89c,1,399.0,399.0,373.29,0.0,Bank Transfer,Delivered,True,True
+5,59,11,30,3,696668c3eef41c8eeab0b89c,2,799.0,1598.0,373.29,0.0,Bank Transfer,Delivered,True,True
+6,55,24,27,4,696668c3eef41c8eeab0b8a0,3,1299.0,3897.0,740.43,0.0,PayPal,Delivered,True,True
+7,69,9,16,5,696668c3eef41c8eeab0b8a2,2,1099.0,2198.0,233.32,0.0,Bank Transfer,Processing,True,False
+8,69,27,16,5,696668c3eef41c8eeab0b8a2,2,129.0,258.0,233.32,0.0,Bank Transfer,Processing,True,False
+9,119,5,17,6,696668c3eef41c8eeab0b8a5,2,699.0,1398.0,187.34,0.0,PayPal,Delivered,True,True
+10,119,19,17,6,696668c3eef41c8eeab0b8a5,1,249.0,249.0,187.34,0.0,PayPal,Delivered,True,True
+11,119,23,17,6,696668c3eef41c8eeab0b8a5,2,599.0,1198.0,187.34,0.0,PayPal,Delivered,True,True
+12,119,9,17,6,696668c3eef41c8eeab0b8a5,1,1099.0,1099.0,187.34,0.0,PayPal,Delivered,True,True
+13,159,29,21,7,696668c3eef41c8eeab0b8aa,2,39.0,78.0,14.82,15.0,Bank Transfer,Delivered,True,True
+14,16,5,19,2,696668c3eef41c8eeab0b8ac,1,699.0,699.0,408.12,0.0,Bank Transfer,Delivered,True,True
+15,16,1,19,2,696668c3eef41c8eeab0b8ac,3,1199.0,3597.0,408.12,0.0,Bank Transfer,Delivered,True,True
+16,21,14,18,8,696668c3eef41c8eeab0b8af,2,499.0,998.0,600.54,0.0,Bank Transfer,Delivered,True,True
+17,21,6,18,8,696668c3eef41c8eeab0b8af,3,3499.0,10497.0,600.54,0.0,Bank Transfer,Delivered,True,True
+18,21,13,18,8,696668c3eef41c8eeab0b8af,1,449.0,449.0,600.54,0.0,Bank Transfer,Delivered,True,True
+19,21,5,18,8,696668c3eef41c8eeab0b8af,1,699.0,699.0,600.54,0.0,Bank Transfer,Delivered,True,True
+20,169,28,8,9,696668c3eef41c8eeab0b8b4,2,349.0,698.0,313.18,0.0,Credit Card,Delivered,True,True
+21,169,25,8,9,696668c3eef41c8eeab0b8b4,2,1999.0,3998.0,313.18,0.0,Credit Card,Delivered,True,True
+22,169,18,8,9,696668c3eef41c8eeab0b8b4,1,249.0,249.0,313.18,0.0,Credit Card,Delivered,True,True
+23,53,7,23,6,696668c3eef41c8eeab0b8b8,1,1999.0,1999.0,379.81,0.0,Cash on Delivery,Delivered,True,True
+24,213,16,11,9,696668c3eef41c8eeab0b8ba,2,429.0,858.0,461.32,0.0,Bank Transfer,Delivered,True,True
+25,213,7,11,9,696668c3eef41c8eeab0b8ba,2,1999.0,3998.0,461.32,0.0,Bank Transfer,Delivered,True,True
+26,52,9,28,5,696668c3eef41c8eeab0b8bd,3,1099.0,3297.0,526.68,0.0,Cash on Delivery,Delivered,True,True
+27,52,8,28,5,696668c3eef41c8eeab0b8bd,3,1299.0,3897.0,526.68,0.0,Cash on Delivery,Delivered,True,True
+28,52,14,28,5,696668c3eef41c8eeab0b8bd,3,499.0,1497.0,526.68,0.0,Cash on Delivery,Delivered,True,True
+29,52,3,28,5,696668c3eef41c8eeab0b8bd,3,799.0,2397.0,526.68,0.0,Cash on Delivery,Delivered,True,True
+30,180,15,24,10,696668c3eef41c8eeab0b8c2,1,799.0,799.0,198.17,0.0,Bank Transfer,Delivered,True,True
+31,180,16,24,10,696668c3eef41c8eeab0b8c2,3,429.0,1287.0,198.17,0.0,Bank Transfer,Delivered,True,True
+32,246,10,11,6,696668c3eef41c8eeab0b8c5,3,1099.0,3297.0,324.33,0.0,Cash on Delivery,Delivered,True,True
+33,246,29,11,6,696668c3eef41c8eeab0b8c5,3,39.0,117.0,324.33,0.0,Cash on Delivery,Delivered,True,True
+34,160,22,11,1,696668c3eef41c8eeab0b8c8,3,1299.0,3897.0,702.62,0.0,Cash on Delivery,Delivered,True,True
+35,160,6,11,1,696668c3eef41c8eeab0b8c8,1,3499.0,3499.0,702.62,0.0,Cash on Delivery,Delivered,True,True
+36,158,17,21,11,696668c3eef41c8eeab0b8cb,1,399.0,399.0,417.72,0.0,PayPal,Refunded,False,False
+37,158,25,21,11,696668c3eef41c8eeab0b8cb,2,1999.0,3998.0,417.72,0.0,PayPal,Refunded,False,False
+38,128,5,11,5,696668c3eef41c8eeab0b8ce,3,699.0,2097.0,270.18,0.0,Credit Card,Delivered,True,True
+39,128,18,11,5,696668c3eef41c8eeab0b8ce,3,249.0,747.0,270.18,0.0,Credit Card,Delivered,True,True
+40,234,25,28,12,696668c3eef41c8eeab0b8d1,3,1999.0,5997.0,580.97,0.0,Credit Card,Delivered,True,True
+41,234,22,28,12,696668c3eef41c8eeab0b8d1,2,1299.0,2598.0,580.97,0.0,Credit Card,Delivered,True,True
+42,234,1,28,12,696668c3eef41c8eeab0b8d1,3,1199.0,3597.0,580.97,0.0,Credit Card,Delivered,True,True
+43,234,29,28,12,696668c3eef41c8eeab0b8d1,1,39.0,39.0,580.97,0.0,Credit Card,Delivered,True,True
+44,111,25,5,13,696668c3eef41c8eeab0b8d6,3,1999.0,5997.0,1139.43,0.0,PayPal,Delivered,True,True
+45,10,15,14,1,696668c3eef41c8eeab0b8d8,3,799.0,2397.0,341.52,0.0,Bank Transfer,Processing,True,False
+46,10,12,14,1,696668c3eef41c8eeab0b8d8,2,599.0,1198.0,341.52,0.0,Bank Transfer,Processing,True,False
+47,266,25,11,2,696668c3eef41c8eeab0b8db,3,1999.0,5997.0,689.83,0.0,Cash on Delivery,Delivered,True,True
+48,266,8,11,2,696668c3eef41c8eeab0b8db,3,1299.0,3897.0,689.83,0.0,Cash on Delivery,Delivered,True,True
+49,266,14,11,2,696668c3eef41c8eeab0b8db,2,499.0,998.0,689.83,0.0,Cash on Delivery,Delivered,True,True
+50,30,25,10,13,696668c3eef41c8eeab0b8df,1,1999.0,1999.0,270.75,0.0,Bank Transfer,Delivered,True,True
+51,30,9,10,13,696668c3eef41c8eeab0b8df,2,1099.0,2198.0,270.75,0.0,Bank Transfer,Delivered,True,True
+52,30,29,10,13,696668c3eef41c8eeab0b8df,2,39.0,78.0,270.75,0.0,Bank Transfer,Delivered,True,True
+53,84,24,19,1,696668c3eef41c8eeab0b8e3,2,1299.0,2598.0,1152.29,0.0,PayPal,Delivered,True,True
+54,84,26,19,1,696668c3eef41c8eeab0b8e3,2,6999.0,13998.0,1152.29,0.0,PayPal,Delivered,True,True
+55,84,11,19,1,696668c3eef41c8eeab0b8e3,2,799.0,1598.0,1152.29,0.0,PayPal,Delivered,True,True
+56,261,11,16,4,696668c3eef41c8eeab0b8e7,2,799.0,1598.0,241.87,0.0,Bank Transfer,Delivered,True,True
+57,261,15,16,4,696668c3eef41c8eeab0b8e7,2,799.0,1598.0,241.87,0.0,Bank Transfer,Delivered,True,True
+58,261,19,16,4,696668c3eef41c8eeab0b8e7,2,249.0,498.0,241.87,0.0,Bank Transfer,Delivered,True,True
+59,261,5,16,4,696668c3eef41c8eeab0b8e7,2,699.0,1398.0,241.87,0.0,Bank Transfer,Delivered,True,True
+60,26,26,33,6,696668c3eef41c8eeab0b8ec,2,6999.0,13998.0,1405.72,0.0,Cash on Delivery,Cancelled,False,False
+61,26,3,33,6,696668c3eef41c8eeab0b8ec,1,799.0,799.0,1405.72,0.0,Cash on Delivery,Cancelled,False,False
+62,46,20,6,6,696668c3eef41c8eeab0b8ef,3,179.0,537.0,102.03,15.0,Cash on Delivery,Delivered,True,True
+63,105,17,29,11,696668c3eef41c8eeab0b8f1,1,399.0,399.0,408.12,0.0,Credit Card,Delivered,True,True
+64,105,22,29,11,696668c3eef41c8eeab0b8f1,3,1299.0,3897.0,408.12,0.0,Credit Card,Delivered,True,True
+65,206,24,18,14,696668c3eef41c8eeab0b8f4,2,1299.0,2598.0,493.62,0.0,PayPal,Delivered,True,True
+66,26,2,7,3,696668c3eef41c8eeab0b8f6,1,999.0,999.0,189.81,15.0,Bank Transfer,Delivered,True,True
+67,160,5,31,6,696668c3eef41c8eeab0b8f8,3,699.0,2097.0,251.37,0.0,Bank Transfer,Delivered,True,True
+68,160,21,31,6,696668c3eef41c8eeab0b8f8,1,549.0,549.0,251.37,0.0,Bank Transfer,Delivered,True,True
+69,216,16,30,5,696668c3eef41c8eeab0b8fb,1,429.0,429.0,88.49,0.0,Cash on Delivery,Shipped,True,False
+70,216,29,30,5,696668c3eef41c8eeab0b8fb,2,39.0,78.0,88.49,0.0,Cash on Delivery,Shipped,True,False
+71,216,14,30,5,696668c3eef41c8eeab0b8fb,2,499.0,998.0,88.49,0.0,Cash on Delivery,Shipped,True,False
+72,216,20,30,5,696668c3eef41c8eeab0b8fb,2,179.0,358.0,88.49,0.0,Cash on Delivery,Shipped,True,False
+73,197,3,29,3,696668c3eef41c8eeab0b900,1,799.0,799.0,151.81,15.0,PayPal,Delivered,True,True
+74,80,14,4,8,696668c3eef41c8eeab0b902,1,499.0,499.0,810.22,0.0,Bank Transfer,Refunded,False,False
+75,80,23,4,8,696668c3eef41c8eeab0b902,3,599.0,1797.0,810.22,0.0,Bank Transfer,Refunded,False,False
+76,80,6,4,8,696668c3eef41c8eeab0b902,3,3499.0,10497.0,810.22,0.0,Bank Transfer,Refunded,False,False
+77,236,19,27,10,696668c3eef41c8eeab0b906,2,249.0,498.0,59.56,7.5,Credit Card,Refunded,False,False
+78,236,27,27,10,696668c3eef41c8eeab0b906,1,129.0,129.0,59.56,7.5,Credit Card,Refunded,False,False
+79,227,24,18,5,696668c3eef41c8eeab0b909,3,1299.0,3897.0,408.12,0.0,Credit Card,Cancelled,False,False
+80,227,21,18,5,696668c3eef41c8eeab0b909,2,549.0,1098.0,408.12,0.0,Credit Card,Cancelled,False,False
+81,227,11,18,5,696668c3eef41c8eeab0b909,2,799.0,1598.0,408.12,0.0,Credit Card,Cancelled,False,False
+82,227,7,18,5,696668c3eef41c8eeab0b909,1,1999.0,1999.0,408.12,0.0,Credit Card,Cancelled,False,False
+83,221,12,14,15,696668c3eef41c8eeab0b90e,3,599.0,1797.0,341.43,0.0,Bank Transfer,Delivered,True,True
+84,139,19,22,12,696668c3eef41c8eeab0b910,3,249.0,747.0,241.73,0.0,Bank Transfer,Delivered,True,True
+85,139,11,22,12,696668c3eef41c8eeab0b910,3,799.0,2397.0,241.73,0.0,Bank Transfer,Delivered,True,True
+86,139,13,22,12,696668c3eef41c8eeab0b910,2,449.0,898.0,241.73,0.0,Bank Transfer,Delivered,True,True
+87,139,28,22,12,696668c3eef41c8eeab0b910,3,349.0,1047.0,241.73,0.0,Bank Transfer,Delivered,True,True
+88,51,26,23,7,696668c3eef41c8eeab0b915,2,6999.0,13998.0,2659.62,0.0,Credit Card,Delivered,True,True
+89,25,19,16,5,696668c3eef41c8eeab0b917,3,249.0,747.0,1073.06,0.0,Credit Card,Processing,True,False
+90,25,9,16,5,696668c3eef41c8eeab0b917,2,1099.0,2198.0,1073.06,0.0,Credit Card,Processing,True,False
+91,25,26,16,5,696668c3eef41c8eeab0b917,2,6999.0,13998.0,1073.06,0.0,Credit Card,Processing,True,False
+92,183,4,29,2,696668c3eef41c8eeab0b91b,1,899.0,899.0,96.71,0.0,PayPal,Delivered,True,True
+93,183,5,29,2,696668c3eef41c8eeab0b91b,1,699.0,699.0,96.71,0.0,PayPal,Delivered,True,True
+94,183,17,29,2,696668c3eef41c8eeab0b91b,1,399.0,399.0,96.71,0.0,PayPal,Delivered,True,True
+95,183,29,29,2,696668c3eef41c8eeab0b91b,1,39.0,39.0,96.71,0.0,PayPal,Delivered,True,True
+96,118,11,6,15,696668c3eef41c8eeab0b920,1,799.0,799.0,110.64,0.0,PayPal,Delivered,True,True
+97,118,13,6,15,696668c3eef41c8eeab0b920,1,449.0,449.0,110.64,0.0,PayPal,Delivered,True,True
+98,118,14,6,15,696668c3eef41c8eeab0b920,1,499.0,499.0,110.64,0.0,PayPal,Delivered,True,True
+99,250,9,27,8,696668c3eef41c8eeab0b924,3,1099.0,3297.0,487.16,0.0,Credit Card,Processing,True,False
+100,250,23,27,8,696668c3eef41c8eeab0b924,3,599.0,1797.0,487.16,0.0,Credit Card,Processing,True,False
+101,250,8,27,8,696668c3eef41c8eeab0b924,2,1299.0,2598.0,487.16,0.0,Credit Card,Processing,True,False
+102,230,26,3,10,696668c3eef41c8eeab0b928,1,6999.0,6999.0,997.31,0.0,PayPal,Delivered,True,True
+103,230,6,3,10,696668c3eef41c8eeab0b928,1,3499.0,3499.0,997.31,0.0,PayPal,Delivered,True,True
+104,220,24,2,13,696668c3eef41c8eeab0b92b,3,1299.0,3897.0,292.92,0.0,Cash on Delivery,Shipped,True,False
+105,220,21,2,13,696668c3eef41c8eeab0b92b,1,549.0,549.0,292.92,0.0,Cash on Delivery,Shipped,True,False
+106,220,20,2,13,696668c3eef41c8eeab0b92b,1,179.0,179.0,292.92,0.0,Cash on Delivery,Shipped,True,False
+107,21,10,19,14,696668c3eef41c8eeab0b92f,1,1099.0,1099.0,208.81,0.0,PayPal,Delivered,True,True
+108,117,29,22,11,696668c3eef41c8eeab0b931,2,39.0,78.0,193.99,0.0,Cash on Delivery,Delivered,True,True
+109,117,27,22,11,696668c3eef41c8eeab0b931,3,129.0,387.0,193.99,0.0,Cash on Delivery,Delivered,True,True
+110,117,24,22,11,696668c3eef41c8eeab0b931,2,1299.0,2598.0,193.99,0.0,Cash on Delivery,Delivered,True,True
+111,241,17,33,10,696668c3eef41c8eeab0b935,2,399.0,798.0,126.82,0.0,Cash on Delivery,Shipped,True,False
+112,241,20,33,10,696668c3eef41c8eeab0b935,3,179.0,537.0,126.82,0.0,Cash on Delivery,Shipped,True,False
+113,32,29,3,7,696668c3eef41c8eeab0b938,1,39.0,39.0,83.7,0.0,Bank Transfer,Delivered,True,True
+114,32,20,3,7,696668c3eef41c8eeab0b938,3,179.0,537.0,83.7,0.0,Bank Transfer,Delivered,True,True
+115,32,27,3,7,696668c3eef41c8eeab0b938,3,129.0,387.0,83.7,0.0,Bank Transfer,Delivered,True,True
+116,32,11,3,7,696668c3eef41c8eeab0b938,1,799.0,799.0,83.7,0.0,Bank Transfer,Delivered,True,True
+117,63,22,28,13,696668c3eef41c8eeab0b93d,2,1299.0,2598.0,1133.35,0.0,Credit Card,Delivered,True,True
+118,63,8,28,13,696668c3eef41c8eeab0b93d,1,1299.0,1299.0,1133.35,0.0,Credit Card,Delivered,True,True
+119,63,26,28,13,696668c3eef41c8eeab0b93d,2,6999.0,13998.0,1133.35,0.0,Credit Card,Delivered,True,True
+120,18,15,2,11,696668c3eef41c8eeab0b941,3,799.0,2397.0,294.12,0.0,PayPal,Delivered,True,True
+121,18,5,2,11,696668c3eef41c8eeab0b941,1,699.0,699.0,294.12,0.0,PayPal,Delivered,True,True
+122,9,8,22,13,696668c3eef41c8eeab0b944,2,1299.0,2598.0,636.25,0.0,Bank Transfer,Delivered,True,True
+123,9,13,22,13,696668c3eef41c8eeab0b944,1,449.0,449.0,636.25,0.0,Bank Transfer,Delivered,True,True
+124,9,26,22,13,696668c3eef41c8eeab0b944,1,6999.0,6999.0,636.25,0.0,Bank Transfer,Delivered,True,True
+125,245,18,26,3,696668c3eef41c8eeab0b948,1,249.0,249.0,47.31,15.0,Credit Card,Delivered,True,True
+126,244,4,13,7,696668c3eef41c8eeab0b94a,2,899.0,1798.0,829.22,0.0,Bank Transfer,Delivered,True,True
+127,244,17,13,7,696668c3eef41c8eeab0b94a,2,399.0,798.0,829.22,0.0,Bank Transfer,Delivered,True,True
+128,244,6,13,7,696668c3eef41c8eeab0b94a,3,3499.0,10497.0,829.22,0.0,Bank Transfer,Delivered,True,True
+129,206,22,3,14,696668c3eef41c8eeab0b94e,1,1299.0,1299.0,246.81,0.0,Bank Transfer,Shipped,True,False
+130,56,21,30,1,696668c3eef41c8eeab0b950,2,549.0,1098.0,208.62,0.0,Bank Transfer,Shipped,True,False
+131,52,11,23,12,696668c3eef41c8eeab0b952,1,799.0,799.0,222.92,0.0,Cash on Delivery,Delivered,True,True
+132,52,12,23,12,696668c3eef41c8eeab0b952,2,599.0,1198.0,222.92,0.0,Cash on Delivery,Delivered,True,True
+133,52,2,23,12,696668c3eef41c8eeab0b952,2,999.0,1998.0,222.92,0.0,Cash on Delivery,Delivered,True,True
+134,52,28,23,12,696668c3eef41c8eeab0b952,2,349.0,698.0,222.92,0.0,Cash on Delivery,Delivered,True,True
+135,268,22,31,12,696668c3eef41c8eeab0b957,2,1299.0,2598.0,493.62,0.0,PayPal,Delivered,True,True
+136,193,6,24,6,696668c3eef41c8eeab0b959,3,3499.0,10497.0,850.63,0.0,Cash on Delivery,Cancelled,False,False
+137,193,11,24,6,696668c3eef41c8eeab0b959,3,799.0,2397.0,850.63,0.0,Cash on Delivery,Cancelled,False,False
+138,193,20,24,6,696668c3eef41c8eeab0b959,3,179.0,537.0,850.63,0.0,Cash on Delivery,Cancelled,False,False
+139,1,12,8,10,696668c3eef41c8eeab0b95d,3,599.0,1797.0,417.52,0.0,Bank Transfer,Delivered,True,True
+140,1,8,8,10,696668c3eef41c8eeab0b95d,2,1299.0,2598.0,417.52,0.0,Bank Transfer,Delivered,True,True
+141,83,8,15,3,696668c3eef41c8eeab0b960,3,1299.0,3897.0,331.64,0.0,Cash on Delivery,Delivered,True,True
+142,83,10,15,3,696668c3eef41c8eeab0b960,1,1099.0,1099.0,331.64,0.0,Cash on Delivery,Delivered,True,True
+143,83,5,15,3,696668c3eef41c8eeab0b960,1,699.0,699.0,331.64,0.0,Cash on Delivery,Delivered,True,True
+144,83,16,15,3,696668c3eef41c8eeab0b960,3,429.0,1287.0,331.64,0.0,Cash on Delivery,Delivered,True,True
+145,130,25,17,15,696668c3eef41c8eeab0b965,3,1999.0,5997.0,380.52,0.0,Bank Transfer,Delivered,True,True
+146,130,12,17,15,696668c3eef41c8eeab0b965,2,599.0,1198.0,380.52,0.0,Bank Transfer,Delivered,True,True
+147,130,29,17,15,696668c3eef41c8eeab0b965,3,39.0,117.0,380.52,0.0,Bank Transfer,Delivered,True,True
+148,130,5,17,15,696668c3eef41c8eeab0b965,1,699.0,699.0,380.52,0.0,Bank Transfer,Delivered,True,True
+149,166,3,32,13,696668c3eef41c8eeab0b96a,3,799.0,2397.0,617.18,0.0,Cash on Delivery,Delivered,True,True
+150,166,26,32,13,696668c3eef41c8eeab0b96a,1,6999.0,6999.0,617.18,0.0,Cash on Delivery,Delivered,True,True
+151,166,28,32,13,696668c3eef41c8eeab0b96a,1,349.0,349.0,617.18,0.0,Cash on Delivery,Delivered,True,True
+152,194,24,3,10,696668c3eef41c8eeab0b96e,2,1299.0,2598.0,816.52,0.0,PayPal,Delivered,True,True
+153,194,25,3,10,696668c3eef41c8eeab0b96e,3,1999.0,5997.0,816.52,0.0,PayPal,Delivered,True,True
+154,200,6,2,15,696668c3eef41c8eeab0b971,3,3499.0,10497.0,1994.43,0.0,Cash on Delivery,Delivered,True,True
+155,147,3,6,4,696668c3eef41c8eeab0b973,2,799.0,1598.0,303.62,0.0,Cash on Delivery,Delivered,True,True
+156,23,8,15,4,696668c3eef41c8eeab0b975,2,1299.0,2598.0,317.77,0.0,Credit Card,Shipped,True,False
+157,23,18,15,4,696668c3eef41c8eeab0b975,3,249.0,747.0,317.77,0.0,Credit Card,Shipped,True,False
+158,96,12,10,13,696668c3eef41c8eeab0b978,3,599.0,1797.0,368.79,0.0,Cash on Delivery,Delivered,True,True
+159,96,27,10,13,696668c3eef41c8eeab0b978,1,129.0,129.0,368.79,0.0,Cash on Delivery,Delivered,True,True
+160,96,24,10,13,696668c3eef41c8eeab0b978,3,1299.0,3897.0,368.79,0.0,Cash on Delivery,Delivered,True,True
+161,213,21,15,13,696668c3eef41c8eeab0b97c,2,549.0,1098.0,208.62,0.0,Credit Card,Delivered,True,True
+162,104,19,30,14,696668c3eef41c8eeab0b97e,2,249.0,498.0,151.72,0.0,Cash on Delivery,Delivered,True,True
+163,104,9,30,14,696668c3eef41c8eeab0b97e,1,1099.0,1099.0,151.72,0.0,Cash on Delivery,Delivered,True,True
+164,158,27,33,1,696668c3eef41c8eeab0b981,1,129.0,129.0,179.6,0.0,PayPal,Delivered,True,True
+165,158,14,33,1,696668c3eef41c8eeab0b981,3,499.0,1497.0,179.6,0.0,PayPal,Delivered,True,True
+166,158,23,33,1,696668c3eef41c8eeab0b981,3,599.0,1797.0,179.6,0.0,PayPal,Delivered,True,True
+167,158,20,33,1,696668c3eef41c8eeab0b981,2,179.0,358.0,179.6,0.0,PayPal,Delivered,True,True
+168,236,21,31,1,696668c3eef41c8eeab0b986,3,549.0,1647.0,279.87,0.0,Credit Card,Delivered,True,True
+169,236,22,31,1,696668c3eef41c8eeab0b986,1,1299.0,1299.0,279.87,0.0,Credit Card,Delivered,True,True
+170,78,7,9,9,696668c3eef41c8eeab0b989,3,1999.0,5997.0,601.22,0.0,Cash on Delivery,Delivered,True,True
+171,78,13,9,9,696668c3eef41c8eeab0b989,2,449.0,898.0,601.22,0.0,Cash on Delivery,Delivered,True,True
+172,78,24,9,9,696668c3eef41c8eeab0b989,2,1299.0,2598.0,601.22,0.0,Cash on Delivery,Delivered,True,True
+173,76,13,3,3,696668c3eef41c8eeab0b98d,1,449.0,449.0,124.16,0.0,Bank Transfer,Delivered,True,True
+174,76,16,3,3,696668c3eef41c8eeab0b98d,2,429.0,858.0,124.16,0.0,Bank Transfer,Delivered,True,True
+175,38,20,32,8,696668c3eef41c8eeab0b990,2,179.0,358.0,1111.55,0.0,Credit Card,Delivered,True,True
+176,38,18,32,8,696668c3eef41c8eeab0b990,3,249.0,747.0,1111.55,0.0,Credit Card,Delivered,True,True
+177,38,22,32,8,696668c3eef41c8eeab0b990,1,1299.0,1299.0,1111.55,0.0,Credit Card,Delivered,True,True
+178,38,26,32,8,696668c3eef41c8eeab0b990,3,6999.0,20997.0,1111.55,0.0,Credit Card,Delivered,True,True
+179,40,6,10,9,696668c3eef41c8eeab0b995,2,3499.0,6998.0,715.82,0.0,PayPal,Cancelled,False,False
+180,40,20,10,9,696668c3eef41c8eeab0b995,3,179.0,537.0,715.82,0.0,PayPal,Cancelled,False,False
+181,264,3,9,7,696668c3eef41c8eeab0b998,1,799.0,799.0,151.75,0.0,Cash on Delivery,Delivered,True,True
+182,264,17,9,7,696668c3eef41c8eeab0b998,2,399.0,798.0,151.75,0.0,Cash on Delivery,Delivered,True,True
+183,264,15,9,7,696668c3eef41c8eeab0b998,1,799.0,799.0,151.75,0.0,Cash on Delivery,Delivered,True,True
+184,122,29,14,5,696668c3eef41c8eeab0b99c,2,39.0,78.0,216.22,0.0,Bank Transfer,Shipped,True,False
+185,122,9,14,5,696668c3eef41c8eeab0b99c,2,1099.0,2198.0,216.22,0.0,Bank Transfer,Shipped,True,False
+186,151,29,21,15,696668c3eef41c8eeab0b99f,1,39.0,39.0,338.86,0.0,Credit Card,Delivered,True,True
+187,151,1,21,15,696668c3eef41c8eeab0b99f,2,1199.0,2398.0,338.86,0.0,Credit Card,Delivered,True,True
+188,151,23,21,15,696668c3eef41c8eeab0b99f,2,599.0,1198.0,338.86,0.0,Credit Card,Delivered,True,True
+189,151,6,21,15,696668c3eef41c8eeab0b99f,1,3499.0,3499.0,338.86,0.0,Credit Card,Delivered,True,True
+190,267,8,24,5,696668c3eef41c8eeab0b9a4,2,1299.0,2598.0,493.62,0.0,Cash on Delivery,Delivered,True,True
+191,242,18,8,10,696668c3eef41c8eeab0b9a6,3,249.0,747.0,175.28,0.0,Bank Transfer,Delivered,True,True
+192,242,21,8,10,696668c3eef41c8eeab0b9a6,2,549.0,1098.0,175.28,0.0,Bank Transfer,Delivered,True,True
+193,175,18,26,2,696668c3eef41c8eeab0b9a9,2,249.0,498.0,94.62,15.0,PayPal,Shipped,True,False
+194,144,12,22,2,696668c3eef41c8eeab0b9ab,3,599.0,1797.0,154.09,0.0,PayPal,Delivered,True,True
+195,144,17,22,2,696668c3eef41c8eeab0b9ab,1,399.0,399.0,154.09,0.0,PayPal,Delivered,True,True
+196,144,18,22,2,696668c3eef41c8eeab0b9ab,1,249.0,249.0,154.09,0.0,PayPal,Delivered,True,True
+197,144,11,22,2,696668c3eef41c8eeab0b9ab,1,799.0,799.0,154.09,0.0,PayPal,Delivered,True,True
+198,270,7,2,3,696668c3eef41c8eeab0b9b0,1,1999.0,1999.0,346.37,0.0,Cash on Delivery,Delivered,True,True
+199,270,21,2,3,696668c3eef41c8eeab0b9b0,3,549.0,1647.0,346.37,0.0,Cash on Delivery,Delivered,True,True
+200,237,17,6,13,696668c3eef41c8eeab0b9b3,2,399.0,798.0,151.62,15.0,Credit Card,Delivered,True,True
+201,226,10,26,12,696668c3eef41c8eeab0b9b5,3,1099.0,3297.0,626.43,0.0,PayPal,Delivered,True,True
+202,110,25,15,10,696668c3eef41c8eeab0b9b7,1,1999.0,1999.0,202.16,0.0,Credit Card,Delivered,True,True
+203,110,27,15,10,696668c3eef41c8eeab0b9b7,1,129.0,129.0,202.16,0.0,Credit Card,Delivered,True,True
+204,136,8,23,7,696668c3eef41c8eeab0b9ba,3,1299.0,3897.0,323.82,0.0,Cash on Delivery,Delivered,True,True
+205,136,9,23,7,696668c3eef41c8eeab0b9ba,1,1099.0,1099.0,323.82,0.0,Cash on Delivery,Delivered,True,True
+206,136,29,23,7,696668c3eef41c8eeab0b9ba,3,39.0,117.0,323.82,0.0,Cash on Delivery,Delivered,True,True
+207,108,7,13,11,696668c3eef41c8eeab0b9be,3,1999.0,5997.0,1139.43,0.0,PayPal,Delivered,True,True
+208,239,5,18,4,696668c3eef41c8eeab0b9c0,1,699.0,699.0,636.12,0.0,Credit Card,Shipped,True,False
+209,239,25,18,4,696668c3eef41c8eeab0b9c0,3,1999.0,5997.0,636.12,0.0,Credit Card,Shipped,True,False
+210,81,29,31,15,696668c3eef41c8eeab0b9c3,2,39.0,78.0,14.82,15.0,PayPal,Delivered,True,True
+211,254,4,26,7,696668c3eef41c8eeab0b9c5,1,899.0,899.0,170.81,15.0,PayPal,Delivered,True,True
+212,269,27,16,7,696668c3eef41c8eeab0b9c7,3,129.0,387.0,73.53,15.0,PayPal,Delivered,True,True
+213,117,13,22,10,696668c3eef41c8eeab0b9c9,2,449.0,898.0,170.62,15.0,Credit Card,Refunded,False,False
+214,130,15,19,8,696668c3eef41c8eeab0b9cb,1,799.0,799.0,176.89,0.0,PayPal,Delivered,True,True
+215,130,28,19,8,696668c3eef41c8eeab0b9cb,2,349.0,698.0,176.89,0.0,PayPal,Delivered,True,True
+216,130,16,19,8,696668c3eef41c8eeab0b9cb,1,429.0,429.0,176.89,0.0,PayPal,Delivered,True,True
+217,130,4,19,8,696668c3eef41c8eeab0b9cb,2,899.0,1798.0,176.89,0.0,PayPal,Delivered,True,True
+218,145,24,13,15,696668c3eef41c8eeab0b9d0,2,1299.0,2598.0,351.12,0.0,PayPal,Shipped,True,False
+219,145,21,13,15,696668c3eef41c8eeab0b9d0,2,549.0,1098.0,351.12,0.0,PayPal,Shipped,True,False
+220,253,15,7,13,696668c3eef41c8eeab0b9d3,2,799.0,1598.0,353.54,0.0,Cash on Delivery,Delivered,True,True
+221,253,19,7,13,696668c3eef41c8eeab0b9d3,1,249.0,249.0,353.54,0.0,Cash on Delivery,Delivered,True,True
+222,253,11,7,13,696668c3eef41c8eeab0b9d3,2,799.0,1598.0,353.54,0.0,Cash on Delivery,Delivered,True,True
+223,253,25,7,13,696668c3eef41c8eeab0b9d3,2,1999.0,3998.0,353.54,0.0,Cash on Delivery,Delivered,True,True
+224,253,5,11,6,696668c3eef41c8eeab0b9d8,1,699.0,699.0,113.81,0.0,Bank Transfer,Refunded,False,False
+225,253,14,11,6,696668c3eef41c8eeab0b9d8,1,499.0,499.0,113.81,0.0,Bank Transfer,Refunded,False,False
+226,20,16,10,5,696668c3eef41c8eeab0b9db,2,429.0,858.0,163.02,15.0,Credit Card,Delivered,True,True
+227,128,21,6,6,696668c3eef41c8eeab0b9dd,1,549.0,549.0,363.04,0.0,Bank Transfer,Delivered,True,True
+228,128,25,6,6,696668c3eef41c8eeab0b9dd,1,1999.0,1999.0,363.04,0.0,Bank Transfer,Delivered,True,True
+229,128,1,6,6,696668c3eef41c8eeab0b9dd,2,1199.0,2398.0,363.04,0.0,Bank Transfer,Delivered,True,True
+230,128,4,6,6,696668c3eef41c8eeab0b9dd,3,899.0,2697.0,363.04,0.0,Bank Transfer,Delivered,True,True
+231,162,17,1,11,696668c3eef41c8eeab0b9e2,2,399.0,798.0,151.62,15.0,Cash on Delivery,Delivered,True,True
+232,225,25,29,5,696668c3eef41c8eeab0b9e4,3,1999.0,5997.0,636.02,0.0,Credit Card,Delivered,True,True
+233,225,28,29,5,696668c3eef41c8eeab0b9e4,2,349.0,698.0,636.02,0.0,Credit Card,Delivered,True,True
+234,181,27,19,10,696668c3eef41c8eeab0b9e7,3,129.0,387.0,319.72,0.0,Cash on Delivery,Delivered,True,True
+235,181,28,19,10,696668c3eef41c8eeab0b9e7,3,349.0,1047.0,319.72,0.0,Cash on Delivery,Delivered,True,True
+236,181,24,19,10,696668c3eef41c8eeab0b9e7,1,1299.0,1299.0,319.72,0.0,Cash on Delivery,Delivered,True,True
+237,181,25,19,10,696668c3eef41c8eeab0b9e7,2,1999.0,3998.0,319.72,0.0,Cash on Delivery,Delivered,True,True
+238,219,7,30,10,696668c3eef41c8eeab0b9ec,1,1999.0,1999.0,541.07,0.0,Bank Transfer,Delivered,True,True
+239,219,9,30,10,696668c3eef41c8eeab0b9ec,2,1099.0,2198.0,541.07,0.0,Bank Transfer,Delivered,True,True
+240,219,24,30,10,696668c3eef41c8eeab0b9ec,3,1299.0,3897.0,541.07,0.0,Bank Transfer,Delivered,True,True
+241,219,10,30,10,696668c3eef41c8eeab0b9ec,3,1099.0,3297.0,541.07,0.0,Bank Transfer,Delivered,True,True
+242,66,17,31,2,696668c3eef41c8eeab0b9f1,2,399.0,798.0,151.62,15.0,Credit Card,Delivered,True,True
+243,227,25,6,2,696668c3eef41c8eeab0b9f3,1,1999.0,1999.0,230.04,0.0,Credit Card,Delivered,True,True
+244,227,11,6,2,696668c3eef41c8eeab0b9f3,1,799.0,799.0,230.04,0.0,Credit Card,Delivered,True,True
+245,227,14,6,2,696668c3eef41c8eeab0b9f3,2,499.0,998.0,230.04,0.0,Credit Card,Delivered,True,True
+246,227,28,6,2,696668c3eef41c8eeab0b9f3,3,349.0,1047.0,230.04,0.0,Credit Card,Delivered,True,True
+247,245,7,10,8,696668c3eef41c8eeab0b9f8,2,1999.0,3998.0,370.07,0.0,Credit Card,Delivered,True,True
+248,245,12,10,8,696668c3eef41c8eeab0b9f8,2,599.0,1198.0,370.07,0.0,Credit Card,Delivered,True,True
+249,245,5,10,8,696668c3eef41c8eeab0b9f8,2,699.0,1398.0,370.07,0.0,Credit Card,Delivered,True,True
+250,245,17,10,8,696668c3eef41c8eeab0b9f8,3,399.0,1197.0,370.07,0.0,Credit Card,Delivered,True,True
+251,156,26,2,4,696668c3eef41c8eeab0b9fd,2,6999.0,13998.0,1353.46,0.0,PayPal,Cancelled,False,False
+252,156,18,2,4,696668c3eef41c8eeab0b9fd,1,249.0,249.0,1353.46,0.0,PayPal,Cancelled,False,False
+253,210,9,1,3,696668c3eef41c8eeab0ba00,1,1099.0,1099.0,227.81,0.0,Credit Card,Delivered,True,True
+254,210,22,1,3,696668c3eef41c8eeab0ba00,1,1299.0,1299.0,227.81,0.0,Credit Card,Delivered,True,True
+255,189,29,9,3,696668c3eef41c8eeab0ba03,2,39.0,78.0,209.52,0.0,PayPal,Shipped,True,False
+256,189,20,9,3,696668c3eef41c8eeab0ba03,3,179.0,537.0,209.52,0.0,PayPal,Shipped,True,False
+257,189,2,9,3,696668c3eef41c8eeab0ba03,3,999.0,2997.0,209.52,0.0,PayPal,Shipped,True,False
+258,189,11,9,3,696668c3eef41c8eeab0ba03,1,799.0,799.0,209.52,0.0,PayPal,Shipped,True,False
+259,175,24,26,2,696668c3eef41c8eeab0ba08,2,1299.0,2598.0,474.57,0.0,Credit Card,Shipped,True,False
+260,175,28,26,2,696668c3eef41c8eeab0ba08,2,349.0,698.0,474.57,0.0,Credit Card,Shipped,True,False
+261,175,4,26,2,696668c3eef41c8eeab0ba08,3,899.0,2697.0,474.57,0.0,Credit Card,Shipped,True,False
+262,175,25,26,2,696668c3eef41c8eeab0ba08,2,1999.0,3998.0,474.57,0.0,Credit Card,Shipped,True,False
+263,232,22,30,15,696668c3eef41c8eeab0ba0d,2,1299.0,2598.0,493.62,0.0,Cash on Delivery,Cancelled,False,False
+264,120,27,28,12,696668c3eef41c8eeab0ba0f,1,129.0,129.0,24.51,15.0,Credit Card,Delivered,True,True
+265,160,14,33,14,696668c3eef41c8eeab0ba11,2,499.0,998.0,132.72,0.0,Credit Card,Delivered,True,True
+266,160,17,33,14,696668c3eef41c8eeab0ba11,1,399.0,399.0,132.72,0.0,Credit Card,Delivered,True,True
+267,138,8,10,10,696668c3eef41c8eeab0ba14,3,1299.0,3897.0,740.43,0.0,Bank Transfer,Delivered,True,True
+268,263,24,7,6,696668c3eef41c8eeab0ba16,1,1299.0,1299.0,246.81,0.0,PayPal,Refunded,False,False
+269,138,12,16,15,696668c3eef41c8eeab0ba18,3,599.0,1797.0,341.43,0.0,PayPal,Delivered,True,True
+270,229,7,16,10,696668c3eef41c8eeab0ba1a,2,1999.0,3998.0,488.82,0.0,Credit Card,Delivered,True,True
+271,229,12,16,10,696668c3eef41c8eeab0ba1a,1,599.0,599.0,488.82,0.0,Credit Card,Delivered,True,True
+272,229,9,16,10,696668c3eef41c8eeab0ba1a,3,1099.0,3297.0,488.82,0.0,Credit Card,Delivered,True,True
+273,229,3,16,10,696668c3eef41c8eeab0ba1a,3,799.0,2397.0,488.82,0.0,Credit Card,Delivered,True,True
+274,142,16,11,3,696668c3eef41c8eeab0ba1f,2,429.0,858.0,1411.32,0.0,Cash on Delivery,Delivered,True,True
+275,142,26,11,3,696668c3eef41c8eeab0ba1f,2,6999.0,13998.0,1411.32,0.0,Cash on Delivery,Delivered,True,True
+276,196,21,5,11,696668c3eef41c8eeab0ba22,1,549.0,549.0,1035.12,0.0,Cash on Delivery,Delivered,True,True
+277,196,23,5,11,696668c3eef41c8eeab0ba22,3,599.0,1797.0,1035.12,0.0,Cash on Delivery,Delivered,True,True
+278,196,26,5,11,696668c3eef41c8eeab0ba22,2,6999.0,13998.0,1035.12,0.0,Cash on Delivery,Delivered,True,True
+279,247,26,29,14,696668c3eef41c8eeab0ba26,2,6999.0,13998.0,1377.12,0.0,PayPal,Delivered,True,True
+280,247,19,29,14,696668c3eef41c8eeab0ba26,2,249.0,498.0,1377.12,0.0,PayPal,Delivered,True,True
+281,57,27,29,5,696668c3eef41c8eeab0ba29,1,129.0,129.0,24.51,15.0,Bank Transfer,Delivered,True,True
+282,27,11,18,13,696668c3eef41c8eeab0ba2b,1,799.0,799.0,335.29,0.0,PayPal,Cancelled,False,False
+283,27,10,18,13,696668c3eef41c8eeab0ba2b,3,1099.0,3297.0,335.29,0.0,PayPal,Cancelled,False,False
+284,27,23,18,13,696668c3eef41c8eeab0ba2b,2,599.0,1198.0,335.29,0.0,PayPal,Cancelled,False,False
+285,63,21,29,4,696668c3eef41c8eeab0ba2f,2,549.0,1098.0,208.62,0.0,Bank Transfer,Delivered,True,True
+286,160,10,3,2,696668c3eef41c8eeab0ba31,3,1099.0,3297.0,298.49,0.0,PayPal,Cancelled,False,False
+287,160,29,3,2,696668c3eef41c8eeab0ba31,3,39.0,117.0,298.49,0.0,PayPal,Cancelled,False,False
+288,160,22,3,2,696668c3eef41c8eeab0ba31,1,1299.0,1299.0,298.49,0.0,PayPal,Cancelled,False,False
+289,168,18,8,7,696668c3eef41c8eeab0ba35,2,249.0,498.0,94.62,15.0,PayPal,Delivered,True,True
+290,169,29,6,7,696668c3eef41c8eeab0ba37,3,39.0,117.0,110.45,0.0,Bank Transfer,Delivered,True,True
+291,169,23,6,7,696668c3eef41c8eeab0ba37,2,599.0,1198.0,110.45,0.0,Bank Transfer,Delivered,True,True
+292,169,16,6,7,696668c3eef41c8eeab0ba37,1,429.0,429.0,110.45,0.0,Bank Transfer,Delivered,True,True
+293,142,16,30,9,696668c3eef41c8eeab0ba3b,1,429.0,429.0,331.04,0.0,Cash on Delivery,Cancelled,False,False
+294,142,22,30,9,696668c3eef41c8eeab0ba3b,1,1299.0,1299.0,331.04,0.0,Cash on Delivery,Cancelled,False,False
+295,142,6,30,9,696668c3eef41c8eeab0ba3b,1,3499.0,3499.0,331.04,0.0,Cash on Delivery,Cancelled,False,False
+296,201,10,5,7,696668c3eef41c8eeab0ba3f,3,1099.0,3297.0,637.83,0.0,Bank Transfer,Delivered,True,True
+297,201,20,5,7,696668c3eef41c8eeab0ba3f,3,179.0,537.0,637.83,0.0,Bank Transfer,Delivered,True,True
+298,201,25,5,7,696668c3eef41c8eeab0ba3f,3,1999.0,5997.0,637.83,0.0,Bank Transfer,Delivered,True,True
+299,201,1,5,7,696668c3eef41c8eeab0ba3f,3,1199.0,3597.0,637.83,0.0,Bank Transfer,Delivered,True,True
+300,8,6,2,12,696668c3eef41c8eeab0ba44,3,3499.0,10497.0,698.25,0.0,PayPal,Delivered,True,True
+301,8,17,2,12,696668c3eef41c8eeab0ba44,1,399.0,399.0,698.25,0.0,PayPal,Delivered,True,True
+302,8,27,2,12,696668c3eef41c8eeab0ba44,1,129.0,129.0,698.25,0.0,PayPal,Delivered,True,True
+303,64,15,8,14,696668c3eef41c8eeab0ba48,2,799.0,1598.0,341.62,0.0,Bank Transfer,Refunded,False,False
+304,64,11,8,14,696668c3eef41c8eeab0ba48,2,799.0,1598.0,341.62,0.0,Bank Transfer,Refunded,False,False
+305,64,9,8,14,696668c3eef41c8eeab0ba48,2,1099.0,2198.0,341.62,0.0,Bank Transfer,Refunded,False,False
+306,106,15,9,4,696668c3eef41c8eeab0ba4c,3,799.0,2397.0,398.43,0.0,Bank Transfer,Refunded,False,False
+307,106,12,9,4,696668c3eef41c8eeab0ba4c,3,599.0,1797.0,398.43,0.0,Bank Transfer,Refunded,False,False
+308,71,4,1,4,696668c3eef41c8eeab0ba4f,2,899.0,1798.0,341.62,0.0,Credit Card,Shipped,True,False
+309,77,20,21,5,696668c3eef41c8eeab0ba51,3,179.0,537.0,146.82,0.0,PayPal,Cancelled,False,False
+310,77,12,21,5,696668c3eef41c8eeab0ba51,2,599.0,1198.0,146.82,0.0,PayPal,Cancelled,False,False
+311,77,21,21,5,696668c3eef41c8eeab0ba51,2,549.0,1098.0,146.82,0.0,PayPal,Cancelled,False,False
+312,77,27,21,5,696668c3eef41c8eeab0ba51,2,129.0,258.0,146.82,0.0,PayPal,Cancelled,False,False
+313,169,12,7,12,696668c3eef41c8eeab0ba56,2,599.0,1198.0,284.52,0.0,Credit Card,Delivered,True,True
+314,169,23,7,12,696668c3eef41c8eeab0ba56,3,599.0,1797.0,284.52,0.0,Credit Card,Delivered,True,True
+315,242,16,29,14,696668c3eef41c8eeab0ba59,3,429.0,1287.0,244.53,0.0,Cash on Delivery,Delivered,True,True
+316,255,29,27,5,696668c3eef41c8eeab0ba5b,3,39.0,117.0,301.53,0.0,Credit Card,Shipped,True,False
+317,255,8,27,5,696668c3eef41c8eeab0ba5b,3,1299.0,3897.0,301.53,0.0,Credit Card,Shipped,True,False
+318,255,19,27,5,696668c3eef41c8eeab0ba5b,3,249.0,747.0,301.53,0.0,Credit Card,Shipped,True,False
+319,79,24,32,15,696668c3eef41c8eeab0ba5f,1,1299.0,1299.0,479.37,0.0,Cash on Delivery,Shipped,True,False
+320,79,22,32,15,696668c3eef41c8eeab0ba5f,1,1299.0,1299.0,479.37,0.0,Cash on Delivery,Shipped,True,False
+321,79,14,32,15,696668c3eef41c8eeab0ba5f,3,499.0,1497.0,479.37,0.0,Cash on Delivery,Shipped,True,False
+322,79,25,32,15,696668c3eef41c8eeab0ba5f,3,1999.0,5997.0,479.37,0.0,Cash on Delivery,Shipped,True,False
+323,133,20,5,1,696668c3eef41c8eeab0ba64,2,179.0,358.0,190.25,0.0,Bank Transfer,Delivered,True,True
+324,133,19,5,1,696668c3eef41c8eeab0ba64,1,249.0,249.0,190.25,0.0,Bank Transfer,Delivered,True,True
+325,133,11,5,1,696668c3eef41c8eeab0ba64,3,799.0,2397.0,190.25,0.0,Bank Transfer,Delivered,True,True
+326,200,26,30,8,696668c3eef41c8eeab0ba68,2,6999.0,13998.0,2659.62,0.0,PayPal,Delivered,True,True
+327,50,8,33,3,696668c3eef41c8eeab0ba6a,2,1299.0,2598.0,251.42,0.0,Credit Card,Refunded,False,False
+328,50,17,33,3,696668c3eef41c8eeab0ba6a,3,399.0,1197.0,251.42,0.0,Credit Card,Refunded,False,False
+329,50,14,33,3,696668c3eef41c8eeab0ba6a,1,499.0,499.0,251.42,0.0,Credit Card,Refunded,False,False
+330,50,2,33,3,696668c3eef41c8eeab0ba6a,1,999.0,999.0,251.42,0.0,Credit Card,Refunded,False,False
+331,246,14,29,7,696668c3eef41c8eeab0ba6f,2,499.0,998.0,102.22,0.0,Bank Transfer,Delivered,True,True
+332,246,29,29,7,696668c3eef41c8eeab0ba6f,2,39.0,78.0,102.22,0.0,Bank Transfer,Delivered,True,True
+333,47,2,3,2,696668c3eef41c8eeab0ba72,2,999.0,1998.0,379.62,0.0,Credit Card,Delivered,True,True
+334,178,8,24,13,696668c3eef41c8eeab0ba74,3,1299.0,3897.0,541.07,0.0,Bank Transfer,Cancelled,False,False
+335,178,24,24,13,696668c3eef41c8eeab0ba74,2,1299.0,2598.0,541.07,0.0,Bank Transfer,Cancelled,False,False
+336,178,7,24,13,696668c3eef41c8eeab0ba74,2,1999.0,3998.0,541.07,0.0,Bank Transfer,Cancelled,False,False
+337,178,13,24,13,696668c3eef41c8eeab0ba74,2,449.0,898.0,541.07,0.0,Bank Transfer,Cancelled,False,False
+338,217,17,21,7,696668c3eef41c8eeab0ba79,1,399.0,399.0,80.56,7.5,Cash on Delivery,Cancelled,False,False
+339,217,13,21,7,696668c3eef41c8eeab0ba79,1,449.0,449.0,80.56,7.5,Cash on Delivery,Cancelled,False,False
+340,79,15,23,12,696668c3eef41c8eeab0ba7c,2,799.0,1598.0,436.52,0.0,PayPal,Delivered,True,True
+341,79,2,23,12,696668c3eef41c8eeab0ba7c,3,999.0,2997.0,436.52,0.0,PayPal,Delivered,True,True
+342,170,17,31,10,696668c3eef41c8eeab0ba7f,3,399.0,1197.0,158.7,0.0,Bank Transfer,Delivered,True,True
+343,170,18,31,10,696668c3eef41c8eeab0ba7f,2,249.0,498.0,158.7,0.0,Bank Transfer,Delivered,True,True
+344,170,23,31,10,696668c3eef41c8eeab0ba7f,1,599.0,599.0,158.7,0.0,Bank Transfer,Delivered,True,True
+345,170,28,31,10,696668c3eef41c8eeab0ba7f,3,349.0,1047.0,158.7,0.0,Bank Transfer,Delivered,True,True
+346,24,23,12,10,696668c3eef41c8eeab0ba84,2,599.0,1198.0,262.39,0.0,Cash on Delivery,Delivered,True,True
+347,24,19,12,10,696668c3eef41c8eeab0ba84,3,249.0,747.0,262.39,0.0,Cash on Delivery,Delivered,True,True
+348,24,10,12,10,696668c3eef41c8eeab0ba84,2,1099.0,2198.0,262.39,0.0,Cash on Delivery,Delivered,True,True
+349,92,14,27,1,696668c3eef41c8eeab0ba88,2,499.0,998.0,332.12,0.0,PayPal,Delivered,True,True
+350,92,28,27,1,696668c3eef41c8eeab0ba88,1,349.0,349.0,332.12,0.0,PayPal,Delivered,True,True
+351,92,8,27,1,696668c3eef41c8eeab0ba88,3,1299.0,3897.0,332.12,0.0,PayPal,Delivered,True,True
+352,205,28,20,5,696668c3eef41c8eeab0ba8c,3,349.0,1047.0,327.18,0.0,Credit Card,Delivered,True,True
+353,205,3,20,5,696668c3eef41c8eeab0ba8c,3,799.0,2397.0,327.18,0.0,Credit Card,Delivered,True,True
+354,260,28,25,1,696668c3eef41c8eeab0ba8f,3,349.0,1047.0,203.78,0.0,Credit Card,Delivered,True,True
+355,260,21,25,1,696668c3eef41c8eeab0ba8f,2,549.0,1098.0,203.78,0.0,Credit Card,Delivered,True,True
+356,213,3,23,6,696668c3eef41c8eeab0ba92,3,799.0,2397.0,455.43,0.0,Credit Card,Delivered,True,True
+357,214,5,26,4,696668c3eef41c8eeab0ba94,1,699.0,699.0,1500.62,0.0,Bank Transfer,Delivered,True,True
+358,214,2,26,4,696668c3eef41c8eeab0ba94,2,999.0,1998.0,1500.62,0.0,Bank Transfer,Delivered,True,True
+359,214,26,26,4,696668c3eef41c8eeab0ba94,3,6999.0,20997.0,1500.62,0.0,Bank Transfer,Delivered,True,True
+360,15,28,18,14,696668c3eef41c8eeab0ba98,3,349.0,1047.0,386.6,0.0,PayPal,Delivered,True,True
+361,15,22,18,14,696668c3eef41c8eeab0ba98,3,1299.0,3897.0,386.6,0.0,PayPal,Delivered,True,True
+362,15,4,18,14,696668c3eef41c8eeab0ba98,3,899.0,2697.0,386.6,0.0,PayPal,Delivered,True,True
+363,15,18,18,14,696668c3eef41c8eeab0ba98,2,249.0,498.0,386.6,0.0,PayPal,Delivered,True,True
+364,119,27,29,2,696668c3eef41c8eeab0ba9d,3,129.0,387.0,177.32,0.0,PayPal,Delivered,True,True
+365,119,19,29,2,696668c3eef41c8eeab0ba9d,1,249.0,249.0,177.32,0.0,PayPal,Delivered,True,True
+366,119,2,29,2,696668c3eef41c8eeab0ba9d,2,999.0,1998.0,177.32,0.0,PayPal,Delivered,True,True
+367,119,9,29,2,696668c3eef41c8eeab0ba9d,1,1099.0,1099.0,177.32,0.0,PayPal,Delivered,True,True
+368,63,2,6,2,696668c3eef41c8eeab0baa2,1,999.0,999.0,189.81,15.0,PayPal,Delivered,True,True
+369,20,27,5,15,696668c3eef41c8eeab0baa4,3,129.0,387.0,113.05,0.0,Credit Card,Delivered,True,True
+370,20,2,5,15,696668c3eef41c8eeab0baa4,1,999.0,999.0,113.05,0.0,Credit Card,Delivered,True,True
+371,20,17,5,15,696668c3eef41c8eeab0baa4,1,399.0,399.0,113.05,0.0,Credit Card,Delivered,True,True
+372,85,29,6,8,696668c3eef41c8eeab0baa8,3,39.0,117.0,489.72,0.0,PayPal,Refunded,False,False
+373,85,11,6,8,696668c3eef41c8eeab0baa8,2,799.0,1598.0,489.72,0.0,PayPal,Refunded,False,False
+374,85,7,6,8,696668c3eef41c8eeab0baa8,3,1999.0,5997.0,489.72,0.0,PayPal,Refunded,False,False
+375,85,24,6,8,696668c3eef41c8eeab0baa8,2,1299.0,2598.0,489.72,0.0,PayPal,Refunded,False,False
+376,15,1,12,13,696668c3eef41c8eeab0baad,1,1199.0,1199.0,227.81,0.0,Credit Card,Cancelled,False,False
+377,28,2,27,8,696668c3eef41c8eeab0baaf,2,999.0,1998.0,1060.39,0.0,Credit Card,Delivered,True,True
+378,28,19,27,8,696668c3eef41c8eeab0baaf,3,249.0,747.0,1060.39,0.0,Credit Card,Delivered,True,True
+379,28,26,27,8,696668c3eef41c8eeab0baaf,2,6999.0,13998.0,1060.39,0.0,Credit Card,Delivered,True,True
+380,188,1,13,5,696668c3eef41c8eeab0bab3,1,1199.0,1199.0,174.48,0.0,Cash on Delivery,Delivered,True,True
+381,188,23,13,5,696668c3eef41c8eeab0bab3,2,599.0,1198.0,174.48,0.0,Cash on Delivery,Delivered,True,True
+382,188,20,13,5,696668c3eef41c8eeab0bab3,2,179.0,358.0,174.48,0.0,Cash on Delivery,Delivered,True,True
+383,15,11,10,8,696668c3eef41c8eeab0bab7,2,799.0,1598.0,237.82,0.0,Bank Transfer,Shipped,True,False
+384,15,22,10,8,696668c3eef41c8eeab0bab7,1,1299.0,1299.0,237.82,0.0,Bank Transfer,Shipped,True,False
+385,15,16,10,8,696668c3eef41c8eeab0bab7,2,429.0,858.0,237.82,0.0,Bank Transfer,Shipped,True,False
+386,107,5,3,14,696668c3eef41c8eeab0babb,3,699.0,2097.0,1183.89,0.0,Bank Transfer,Delivered,True,True
+387,107,24,3,14,696668c3eef41c8eeab0babb,2,1299.0,2598.0,1183.89,0.0,Bank Transfer,Delivered,True,True
+388,107,26,3,14,696668c3eef41c8eeab0babb,2,6999.0,13998.0,1183.89,0.0,Bank Transfer,Delivered,True,True
+389,70,14,20,10,696668c3eef41c8eeab0babf,1,499.0,499.0,169.99,0.0,Bank Transfer,Delivered,True,True
+390,70,16,20,10,696668c3eef41c8eeab0babf,3,429.0,1287.0,169.99,0.0,Bank Transfer,Delivered,True,True
+391,70,13,20,10,696668c3eef41c8eeab0babf,2,449.0,898.0,169.99,0.0,Bank Transfer,Delivered,True,True
+392,102,18,31,6,696668c3eef41c8eeab0bac3,3,249.0,747.0,156.37,0.0,PayPal,Delivered,True,True
+393,102,4,31,6,696668c3eef41c8eeab0bac3,1,899.0,899.0,156.37,0.0,PayPal,Delivered,True,True
+394,7,3,26,3,696668c3eef41c8eeab0bac6,2,799.0,1598.0,303.62,0.0,Bank Transfer,Delivered,True,True
+395,165,11,8,3,696668c3eef41c8eeab0bac8,1,799.0,799.0,151.81,15.0,Bank Transfer,Shipped,True,False
+396,5,22,21,4,696668c3eef41c8eeab0baca,2,1299.0,2598.0,236.26,0.0,Bank Transfer,Delivered,True,True
+397,5,20,21,4,696668c3eef41c8eeab0baca,1,179.0,179.0,236.26,0.0,Bank Transfer,Delivered,True,True
+398,5,5,21,4,696668c3eef41c8eeab0baca,2,699.0,1398.0,236.26,0.0,Bank Transfer,Delivered,True,True
+399,5,15,21,4,696668c3eef41c8eeab0baca,1,799.0,799.0,236.26,0.0,Bank Transfer,Delivered,True,True
+400,213,14,24,8,696668c3eef41c8eeab0bacf,1,499.0,499.0,218.12,0.0,Cash on Delivery,Delivered,True,True
+401,213,23,24,8,696668c3eef41c8eeab0bacf,3,599.0,1797.0,218.12,0.0,Cash on Delivery,Delivered,True,True
+402,25,9,6,3,696668c3eef41c8eeab0bad2,1,1099.0,1099.0,221.22,0.0,Bank Transfer,Delivered,True,True
+403,25,28,6,3,696668c3eef41c8eeab0bad2,3,349.0,1047.0,221.22,0.0,Bank Transfer,Delivered,True,True
+404,25,13,6,3,696668c3eef41c8eeab0bad2,3,449.0,1347.0,221.22,0.0,Bank Transfer,Delivered,True,True
+405,85,12,14,14,696668c3eef41c8eeab0bad6,3,599.0,1797.0,341.43,0.0,Credit Card,Delivered,True,True
+406,117,15,30,3,696668c3eef41c8eeab0bad8,1,799.0,799.0,398.62,0.0,Credit Card,Delivered,True,True
+407,117,9,30,3,696668c3eef41c8eeab0bad8,3,1099.0,3297.0,398.62,0.0,Credit Card,Delivered,True,True
+408,117,10,30,3,696668c3eef41c8eeab0bad8,2,1099.0,2198.0,398.62,0.0,Credit Card,Delivered,True,True
+409,39,25,27,8,696668c3eef41c8eeab0badc,1,1999.0,1999.0,176.84,0.0,Bank Transfer,Cancelled,False,False
+410,39,28,27,8,696668c3eef41c8eeab0badc,3,349.0,1047.0,176.84,0.0,Bank Transfer,Cancelled,False,False
+411,39,12,27,8,696668c3eef41c8eeab0badc,1,599.0,599.0,176.84,0.0,Bank Transfer,Cancelled,False,False
+412,39,29,27,8,696668c3eef41c8eeab0badc,2,39.0,78.0,176.84,0.0,Bank Transfer,Cancelled,False,False
+413,182,14,13,3,696668c3eef41c8eeab0bae1,2,499.0,998.0,435.72,0.0,PayPal,Delivered,True,True
+414,182,29,13,3,696668c3eef41c8eeab0bae1,2,39.0,78.0,435.72,0.0,PayPal,Delivered,True,True
+415,182,26,13,3,696668c3eef41c8eeab0bae1,1,6999.0,6999.0,435.72,0.0,PayPal,Delivered,True,True
+416,182,21,13,3,696668c3eef41c8eeab0bae1,2,549.0,1098.0,435.72,0.0,PayPal,Delivered,True,True
+417,57,24,15,5,696668c3eef41c8eeab0bae6,2,1299.0,2598.0,759.62,0.0,Cash on Delivery,Delivered,True,True
+418,57,11,15,5,696668c3eef41c8eeab0bae6,3,799.0,2397.0,759.62,0.0,Cash on Delivery,Delivered,True,True
+419,57,26,15,5,696668c3eef41c8eeab0bae6,1,6999.0,6999.0,759.62,0.0,Cash on Delivery,Delivered,True,True
+420,272,26,31,14,696668c3eef41c8eeab0baea,3,6999.0,20997.0,1226.59,0.0,PayPal,Delivered,True,True
+421,272,25,31,14,696668c3eef41c8eeab0baea,1,1999.0,1999.0,1226.59,0.0,PayPal,Delivered,True,True
+422,272,1,31,14,696668c3eef41c8eeab0baea,2,1199.0,2398.0,1226.59,0.0,PayPal,Delivered,True,True
+423,272,16,31,14,696668c3eef41c8eeab0baea,1,429.0,429.0,1226.59,0.0,PayPal,Delivered,True,True
+424,81,28,2,1,696668c3eef41c8eeab0baef,1,349.0,349.0,71.06,7.5,Cash on Delivery,Delivered,True,True
+425,81,17,2,1,696668c3eef41c8eeab0baef,1,399.0,399.0,71.06,7.5,Cash on Delivery,Delivered,True,True
+426,10,6,14,15,696668c3eef41c8eeab0baf2,2,3499.0,6998.0,645.68,0.0,PayPal,Delivered,True,True
+427,10,12,14,15,696668c3eef41c8eeab0baf2,1,599.0,599.0,645.68,0.0,PayPal,Delivered,True,True
+428,10,8,14,15,696668c3eef41c8eeab0baf2,2,1299.0,2598.0,645.68,0.0,PayPal,Delivered,True,True
+429,74,5,1,2,696668c3eef41c8eeab0baf6,3,699.0,2097.0,207.86,0.0,PayPal,Delivered,True,True
+430,74,27,1,2,696668c3eef41c8eeab0baf6,3,129.0,387.0,207.86,0.0,PayPal,Delivered,True,True
+431,74,17,1,2,696668c3eef41c8eeab0baf6,2,399.0,798.0,207.86,0.0,PayPal,Delivered,True,True
+432,262,7,9,1,696668c3eef41c8eeab0bafa,3,1999.0,5997.0,375.39,0.0,PayPal,Delivered,True,True
+433,262,16,9,1,696668c3eef41c8eeab0bafa,2,429.0,858.0,375.39,0.0,PayPal,Delivered,True,True
+434,262,19,9,1,696668c3eef41c8eeab0bafa,1,249.0,249.0,375.39,0.0,PayPal,Delivered,True,True
+435,262,15,9,1,696668c3eef41c8eeab0bafa,1,799.0,799.0,375.39,0.0,PayPal,Delivered,True,True
+436,176,17,18,13,696668c3eef41c8eeab0baff,1,399.0,399.0,108.87,0.0,Bank Transfer,Cancelled,False,False
+437,176,18,18,13,696668c3eef41c8eeab0baff,3,249.0,747.0,108.87,0.0,Bank Transfer,Cancelled,False,False
+438,141,7,25,2,696668c3eef41c8eeab0bb02,1,1999.0,1999.0,379.81,0.0,Bank Transfer,Delivered,True,True
+439,172,20,29,7,696668c3eef41c8eeab0bb04,1,179.0,179.0,131.76,0.0,Credit Card,Refunded,False,False
+440,172,24,29,7,696668c3eef41c8eeab0bb04,1,1299.0,1299.0,131.76,0.0,Credit Card,Refunded,False,False
+441,172,19,29,7,696668c3eef41c8eeab0bb04,3,249.0,747.0,131.76,0.0,Credit Card,Refunded,False,False
+442,172,21,29,7,696668c3eef41c8eeab0bb04,1,549.0,549.0,131.76,0.0,Credit Card,Refunded,False,False
+443,107,17,28,6,696668c3eef41c8eeab0bb09,3,399.0,1197.0,227.43,0.0,Credit Card,Shipped,True,False
+444,211,10,29,9,696668c3eef41c8eeab0bb0b,2,1099.0,2198.0,417.62,0.0,PayPal,Delivered,True,True
+445,152,18,30,4,696668c3eef41c8eeab0bb0d,3,249.0,747.0,157.89,0.0,Bank Transfer,Delivered,True,True
+446,152,19,30,4,696668c3eef41c8eeab0bb0d,1,249.0,249.0,157.89,0.0,Bank Transfer,Delivered,True,True
+447,152,14,30,4,696668c3eef41c8eeab0bb0d,3,499.0,1497.0,157.89,0.0,Bank Transfer,Delivered,True,True
+448,36,22,13,5,696668c3eef41c8eeab0bb11,2,1299.0,2598.0,284.62,0.0,Bank Transfer,Delivered,True,True
+449,36,17,13,5,696668c3eef41c8eeab0bb11,2,399.0,798.0,284.62,0.0,Bank Transfer,Delivered,True,True
+450,36,3,13,5,696668c3eef41c8eeab0bb11,1,799.0,799.0,284.62,0.0,Bank Transfer,Delivered,True,True
+451,36,12,13,5,696668c3eef41c8eeab0bb11,3,599.0,1797.0,284.62,0.0,Bank Transfer,Delivered,True,True
+452,148,6,28,10,696668c3eef41c8eeab0bb16,3,3499.0,10497.0,1994.43,0.0,Cash on Delivery,Processing,True,False
+453,190,8,33,10,696668c3eef41c8eeab0bb18,2,1299.0,2598.0,344.79,0.0,Cash on Delivery,Delivered,True,True
+454,190,21,33,10,696668c3eef41c8eeab0bb18,3,549.0,1647.0,344.79,0.0,Cash on Delivery,Delivered,True,True
+455,190,1,33,10,696668c3eef41c8eeab0bb18,1,1199.0,1199.0,344.79,0.0,Cash on Delivery,Delivered,True,True
+456,72,25,15,13,696668c3eef41c8eeab0bb1c,2,1999.0,3998.0,721.52,0.0,Cash on Delivery,Delivered,True,True
+457,72,1,15,13,696668c3eef41c8eeab0bb1c,3,1199.0,3597.0,721.52,0.0,Cash on Delivery,Delivered,True,True
+458,21,5,18,10,696668c3eef41c8eeab0bb1f,3,699.0,2097.0,313.12,0.0,PayPal,Delivered,True,True
+459,21,1,18,10,696668c3eef41c8eeab0bb1f,1,1199.0,1199.0,313.12,0.0,PayPal,Delivered,True,True
+460,148,15,17,12,696668c3eef41c8eeab0bb22,3,799.0,2397.0,426.93,0.0,Bank Transfer,Delivered,True,True
+461,148,5,17,12,696668c3eef41c8eeab0bb22,3,699.0,2097.0,426.93,0.0,Bank Transfer,Delivered,True,True
+462,15,16,9,10,696668c3eef41c8eeab0bb25,2,429.0,858.0,275.75,0.0,Bank Transfer,Delivered,True,True
+463,15,14,9,10,696668c3eef41c8eeab0bb25,1,499.0,499.0,275.75,0.0,Bank Transfer,Delivered,True,True
+464,15,2,9,10,696668c3eef41c8eeab0bb25,3,999.0,2997.0,275.75,0.0,Bank Transfer,Delivered,True,True
+465,194,17,33,2,696668c3eef41c8eeab0bb29,1,399.0,399.0,75.81,15.0,PayPal,Delivered,True,True
+466,177,25,30,10,696668c3eef41c8eeab0bb2b,1,1999.0,1999.0,379.81,0.0,Bank Transfer,Delivered,True,True
+467,210,6,6,2,696668c3eef41c8eeab0bb2d,1,3499.0,3499.0,415.24,0.0,PayPal,Refunded,False,False
+468,210,21,6,2,696668c3eef41c8eeab0bb2d,3,549.0,1647.0,415.24,0.0,PayPal,Refunded,False,False
+469,210,14,6,2,696668c3eef41c8eeab0bb2d,2,499.0,998.0,415.24,0.0,PayPal,Refunded,False,False
+470,210,22,6,2,696668c3eef41c8eeab0bb2d,2,1299.0,2598.0,415.24,0.0,PayPal,Refunded,False,False
+471,137,21,20,15,696668c3eef41c8eeab0bb32,1,549.0,549.0,279.87,0.0,Cash on Delivery,Delivered,True,True
+472,137,3,20,15,696668c3eef41c8eeab0bb32,3,799.0,2397.0,279.87,0.0,Cash on Delivery,Delivered,True,True
+473,255,15,18,2,696668c3eef41c8eeab0bb35,3,799.0,2397.0,455.43,0.0,Credit Card,Delivered,True,True
+474,45,6,26,12,696668c3eef41c8eeab0bb37,3,3499.0,10497.0,726.28,0.0,PayPal,Shipped,True,False
+475,45,11,26,12,696668c3eef41c8eeab0bb37,2,799.0,1598.0,726.28,0.0,PayPal,Shipped,True,False
+476,45,12,26,12,696668c3eef41c8eeab0bb37,3,599.0,1797.0,726.28,0.0,PayPal,Shipped,True,False
+477,45,5,26,12,696668c3eef41c8eeab0bb37,2,699.0,1398.0,726.28,0.0,PayPal,Shipped,True,False
+478,93,9,3,1,696668c3eef41c8eeab0bb3c,1,1099.0,1099.0,208.81,0.0,Bank Transfer,Refunded,False,False
+479,92,15,4,4,696668c3eef41c8eeab0bb3e,1,799.0,799.0,151.81,15.0,Credit Card,Delivered,True,True
+480,132,15,12,7,696668c3eef41c8eeab0bb40,2,799.0,1598.0,293.6,0.0,Credit Card,Shipped,True,False
+481,132,27,12,7,696668c3eef41c8eeab0bb40,3,129.0,387.0,293.6,0.0,Credit Card,Shipped,True,False
+482,132,11,12,7,696668c3eef41c8eeab0bb40,2,799.0,1598.0,293.6,0.0,Credit Card,Shipped,True,False
+483,132,22,12,7,696668c3eef41c8eeab0bb40,2,1299.0,2598.0,293.6,0.0,Credit Card,Shipped,True,False
+484,251,5,32,3,696668c3eef41c8eeab0bb45,2,699.0,1398.0,156.46,0.0,Credit Card,Cancelled,False,False
+485,251,19,32,3,696668c3eef41c8eeab0bb45,1,249.0,249.0,156.46,0.0,Credit Card,Cancelled,False,False
+486,207,21,16,10,696668c3eef41c8eeab0bb48,2,549.0,1098.0,355.82,0.0,Cash on Delivery,Refunded,False,False
+487,207,15,16,10,696668c3eef41c8eeab0bb48,3,799.0,2397.0,355.82,0.0,Cash on Delivery,Refunded,False,False
+488,207,5,16,10,696668c3eef41c8eeab0bb48,2,699.0,1398.0,355.82,0.0,Cash on Delivery,Refunded,False,False
+489,207,24,16,10,696668c3eef41c8eeab0bb48,2,1299.0,2598.0,355.82,0.0,Cash on Delivery,Refunded,False,False
+490,240,15,2,4,696668c3eef41c8eeab0bb4d,1,799.0,799.0,303.62,0.0,PayPal,Delivered,True,True
+491,240,19,2,4,696668c3eef41c8eeab0bb4d,2,249.0,498.0,303.62,0.0,PayPal,Delivered,True,True
+492,240,23,2,4,696668c3eef41c8eeab0bb4d,2,599.0,1198.0,303.62,0.0,PayPal,Delivered,True,True
+493,240,8,2,4,696668c3eef41c8eeab0bb4d,3,1299.0,3897.0,303.62,0.0,PayPal,Delivered,True,True
+494,75,21,4,6,696668c3eef41c8eeab0bb52,3,549.0,1647.0,183.44,0.0,Bank Transfer,Delivered,True,True
+495,75,16,4,6,696668c3eef41c8eeab0bb52,3,429.0,1287.0,183.44,0.0,Bank Transfer,Delivered,True,True
+496,75,27,4,6,696668c3eef41c8eeab0bb52,1,129.0,129.0,183.44,0.0,Bank Transfer,Delivered,True,True
+497,75,3,4,6,696668c3eef41c8eeab0bb52,1,799.0,799.0,183.44,0.0,Bank Transfer,Delivered,True,True
+498,177,20,24,13,696668c3eef41c8eeab0bb57,3,179.0,537.0,102.03,15.0,PayPal,Cancelled,False,False
+499,11,10,3,8,696668c3eef41c8eeab0bb59,1,1099.0,1099.0,617.12,0.0,PayPal,Delivered,True,True
+500,11,21,3,8,696668c3eef41c8eeab0bb59,3,549.0,1647.0,617.12,0.0,PayPal,Delivered,True,True
+501,11,6,3,8,696668c3eef41c8eeab0bb59,2,3499.0,6998.0,617.12,0.0,PayPal,Delivered,True,True
+502,125,7,2,10,696668c3eef41c8eeab0bb5d,3,1999.0,5997.0,456.82,0.0,PayPal,Delivered,True,True
+503,125,9,2,10,696668c3eef41c8eeab0bb5d,1,1099.0,1099.0,456.82,0.0,PayPal,Delivered,True,True
+504,125,29,2,10,696668c3eef41c8eeab0bb5d,3,39.0,117.0,456.82,0.0,PayPal,Delivered,True,True
+505,244,15,33,1,696668c3eef41c8eeab0bb61,3,799.0,2397.0,322.57,0.0,Bank Transfer,Cancelled,False,False
+506,244,14,33,1,696668c3eef41c8eeab0bb61,2,499.0,998.0,322.57,0.0,Bank Transfer,Cancelled,False,False
+507,244,17,33,1,696668c3eef41c8eeab0bb61,2,399.0,798.0,322.57,0.0,Bank Transfer,Cancelled,False,False
+508,244,24,33,1,696668c3eef41c8eeab0bb61,2,1299.0,2598.0,322.57,0.0,Bank Transfer,Cancelled,False,False
+509,1,24,9,9,696668c3eef41c8eeab0bb66,2,1299.0,2598.0,493.68,0.0,Credit Card,Cancelled,False,False
+510,1,1,9,9,696668c3eef41c8eeab0bb66,1,1199.0,1199.0,493.68,0.0,Credit Card,Cancelled,False,False
+511,1,25,9,9,696668c3eef41c8eeab0bb66,2,1999.0,3998.0,493.68,0.0,Credit Card,Cancelled,False,False
+512,118,20,16,12,696668c3eef41c8eeab0bb6a,1,179.0,179.0,179.17,0.0,PayPal,Shipped,True,False
+513,118,19,16,12,696668c3eef41c8eeab0bb6a,2,249.0,498.0,179.17,0.0,PayPal,Shipped,True,False
+514,118,3,16,12,696668c3eef41c8eeab0bb6a,2,799.0,1598.0,179.17,0.0,PayPal,Shipped,True,False
+515,118,14,16,12,696668c3eef41c8eeab0bb6a,3,499.0,1497.0,179.17,0.0,PayPal,Shipped,True,False
+516,206,17,19,9,696668c3eef41c8eeab0bb6f,2,399.0,798.0,103.61,0.0,PayPal,Delivered,True,True
+517,206,29,19,9,696668c3eef41c8eeab0bb6f,1,39.0,39.0,103.61,0.0,PayPal,Delivered,True,True
+518,206,11,19,9,696668c3eef41c8eeab0bb6f,1,799.0,799.0,103.61,0.0,PayPal,Delivered,True,True
+519,189,24,11,11,696668c3eef41c8eeab0bb73,3,1299.0,3897.0,740.43,0.0,PayPal,Delivered,True,True
+520,147,4,28,14,696668c3eef41c8eeab0bb75,2,899.0,1798.0,265.62,0.0,Bank Transfer,Delivered,True,True
+521,147,14,28,14,696668c3eef41c8eeab0bb75,2,499.0,998.0,265.62,0.0,Bank Transfer,Delivered,True,True
+522,99,9,30,1,696668c3eef41c8eeab0bb78,1,1099.0,1099.0,332.12,0.0,PayPal,Delivered,True,True
+523,99,15,30,1,696668c3eef41c8eeab0bb78,3,799.0,2397.0,332.12,0.0,PayPal,Delivered,True,True
+524,27,9,28,6,696668c3eef41c8eeab0bb7b,3,1099.0,3297.0,354.35,0.0,Credit Card,Delivered,True,True
+525,27,1,28,6,696668c3eef41c8eeab0bb7b,1,1199.0,1199.0,354.35,0.0,Credit Card,Delivered,True,True
+526,27,10,28,6,696668c3eef41c8eeab0bb7b,1,1099.0,1099.0,354.35,0.0,Credit Card,Delivered,True,True
+527,90,24,27,6,696668c3eef41c8eeab0bb7f,3,1299.0,3897.0,451.72,0.0,Bank Transfer,Delivered,True,True
+528,90,16,27,6,696668c3eef41c8eeab0bb7f,2,429.0,858.0,451.72,0.0,Bank Transfer,Delivered,True,True
+529,233,12,29,11,696668c3eef41c8eeab0bb82,3,599.0,1797.0,221.22,0.0,Bank Transfer,Shipped,True,False
+530,233,17,29,11,696668c3eef41c8eeab0bb82,3,399.0,1197.0,221.22,0.0,Bank Transfer,Shipped,True,False
+531,233,14,29,11,696668c3eef41c8eeab0bb82,1,499.0,499.0,221.22,0.0,Bank Transfer,Shipped,True,False
+532,178,13,4,2,696668c3eef41c8eeab0bb86,1,449.0,449.0,287.85,0.0,Cash on Delivery,Delivered,True,True
+533,178,11,4,2,696668c3eef41c8eeab0bb86,1,799.0,799.0,287.85,0.0,Cash on Delivery,Delivered,True,True
+534,178,10,4,2,696668c3eef41c8eeab0bb86,3,1099.0,3297.0,287.85,0.0,Cash on Delivery,Delivered,True,True
+535,170,26,16,6,696668c3eef41c8eeab0bb8a,2,6999.0,13998.0,2659.62,0.0,Bank Transfer,Delivered,True,True
+536,218,22,20,5,696668c3eef41c8eeab0bb8c,3,1299.0,3897.0,351.07,0.0,PayPal,Delivered,True,True
+537,218,11,20,5,696668c3eef41c8eeab0bb8c,2,799.0,1598.0,351.07,0.0,PayPal,Delivered,True,True
+538,218,14,20,5,696668c3eef41c8eeab0bb8c,2,499.0,998.0,351.07,0.0,PayPal,Delivered,True,True
+539,218,13,20,5,696668c3eef41c8eeab0bb8c,2,449.0,898.0,351.07,0.0,PayPal,Delivered,True,True
+540,13,24,20,12,696668c3eef41c8eeab0bb91,1,1299.0,1299.0,246.81,0.0,PayPal,Processing,True,False
+541,97,7,31,8,696668c3eef41c8eeab0bb93,1,1999.0,1999.0,759.62,0.0,Credit Card,Cancelled,False,False
+542,97,25,31,8,696668c3eef41c8eeab0bb93,3,1999.0,5997.0,759.62,0.0,Credit Card,Cancelled,False,False
+543,38,22,12,15,696668c3eef41c8eeab0bb96,3,1299.0,3897.0,321.35,0.0,PayPal,Delivered,True,True
+544,38,29,12,15,696668c3eef41c8eeab0bb96,2,39.0,78.0,321.35,0.0,PayPal,Delivered,True,True
+545,38,10,12,15,696668c3eef41c8eeab0bb96,1,1099.0,1099.0,321.35,0.0,PayPal,Delivered,True,True
+546,205,22,1,14,696668c3eef41c8eeab0bb9a,2,1299.0,2598.0,493.62,0.0,PayPal,Delivered,True,True
+547,91,14,13,2,696668c3eef41c8eeab0bb9c,2,499.0,998.0,189.62,15.0,Cash on Delivery,Delivered,True,True
+548,266,18,25,8,696668c3eef41c8eeab0bb9e,1,249.0,249.0,228.1,0.0,PayPal,Delivered,True,True
+549,266,20,25,8,696668c3eef41c8eeab0bb9e,2,179.0,358.0,228.1,0.0,PayPal,Delivered,True,True
+550,266,13,25,8,696668c3eef41c8eeab0bb9e,2,449.0,898.0,228.1,0.0,PayPal,Delivered,True,True
+551,266,9,25,8,696668c3eef41c8eeab0bb9e,3,1099.0,3297.0,228.1,0.0,PayPal,Delivered,True,True
+552,2,2,13,4,696668c3eef41c8eeab0bba3,3,999.0,2997.0,607.67,0.0,Credit Card,Delivered,True,True
+553,2,25,13,4,696668c3eef41c8eeab0bba3,1,1999.0,1999.0,607.67,0.0,Credit Card,Delivered,True,True
+554,2,6,13,4,696668c3eef41c8eeab0bba3,2,3499.0,6998.0,607.67,0.0,Credit Card,Delivered,True,True
+555,2,3,13,4,696668c3eef41c8eeab0bba3,1,799.0,799.0,607.67,0.0,Credit Card,Delivered,True,True
+556,229,3,26,3,696668c3eef41c8eeab0bba8,2,799.0,1598.0,303.62,0.0,Bank Transfer,Delivered,True,True
+557,89,23,30,4,696668c3eef41c8eeab0bbaa,2,599.0,1198.0,173.72,0.0,Cash on Delivery,Delivered,True,True
+558,89,28,30,4,696668c3eef41c8eeab0bbaa,3,349.0,1047.0,173.72,0.0,Cash on Delivery,Delivered,True,True
+559,89,18,30,4,696668c3eef41c8eeab0bbaa,2,249.0,498.0,173.72,0.0,Cash on Delivery,Delivered,True,True
+560,177,11,13,2,696668c3eef41c8eeab0bbae,3,799.0,2397.0,455.43,0.0,PayPal,Shipped,True,False
+561,181,22,5,3,696668c3eef41c8eeab0bbb0,1,1299.0,1299.0,246.81,0.0,Credit Card,Cancelled,False,False
+562,43,5,32,9,696668c3eef41c8eeab0bbb2,1,699.0,699.0,229.24,0.0,PayPal,Cancelled,False,False
+563,43,25,32,9,696668c3eef41c8eeab0bbb2,1,1999.0,1999.0,229.24,0.0,PayPal,Cancelled,False,False
+564,43,27,32,9,696668c3eef41c8eeab0bbb2,1,129.0,129.0,229.24,0.0,PayPal,Cancelled,False,False
+565,43,7,32,9,696668c3eef41c8eeab0bbb2,1,1999.0,1999.0,229.24,0.0,PayPal,Cancelled,False,False
+566,252,26,26,14,696668c3eef41c8eeab0bbb7,3,6999.0,20997.0,1506.95,0.0,Bank Transfer,Delivered,True,True
+567,252,3,26,14,696668c3eef41c8eeab0bbb7,1,799.0,799.0,1506.95,0.0,Bank Transfer,Delivered,True,True
+568,252,2,26,14,696668c3eef41c8eeab0bbb7,2,999.0,1998.0,1506.95,0.0,Bank Transfer,Delivered,True,True
+569,187,20,13,14,696668c3eef41c8eeab0bbbb,2,179.0,358.0,138.42,0.0,Bank Transfer,Shipped,True,False
+570,187,10,13,14,696668c3eef41c8eeab0bbbb,1,1099.0,1099.0,138.42,0.0,Bank Transfer,Shipped,True,False
+571,86,1,31,10,696668c3eef41c8eeab0bbbe,1,1199.0,1199.0,147.92,0.0,PayPal,Cancelled,False,False
+572,86,20,31,10,696668c3eef41c8eeab0bbbe,2,179.0,358.0,147.92,0.0,PayPal,Cancelled,False,False
+573,263,1,16,7,696668c3eef41c8eeab0bbc1,3,1199.0,3597.0,683.43,0.0,Cash on Delivery,Delivered,True,True
+574,191,27,29,13,696668c3eef41c8eeab0bbc3,2,129.0,258.0,234.74,0.0,Credit Card,Delivered,True,True
+575,191,16,29,13,696668c3eef41c8eeab0bbc3,3,429.0,1287.0,234.74,0.0,Credit Card,Delivered,True,True
+576,191,15,29,13,696668c3eef41c8eeab0bbc3,1,799.0,799.0,234.74,0.0,Credit Card,Delivered,True,True
+577,191,24,29,13,696668c3eef41c8eeab0bbc3,2,1299.0,2598.0,234.74,0.0,Credit Card,Delivered,True,True
+578,34,27,27,13,696668c3eef41c8eeab0bbc8,3,129.0,387.0,426.6,0.0,Cash on Delivery,Delivered,True,True
+579,34,2,27,13,696668c3eef41c8eeab0bbc8,1,999.0,999.0,426.6,0.0,Cash on Delivery,Delivered,True,True
+580,34,7,27,13,696668c3eef41c8eeab0bbc8,3,1999.0,5997.0,426.6,0.0,Cash on Delivery,Delivered,True,True
+581,34,3,27,13,696668c3eef41c8eeab0bbc8,2,799.0,1598.0,426.6,0.0,Cash on Delivery,Delivered,True,True
+582,55,6,14,8,696668c3eef41c8eeab0bbcd,3,3499.0,10497.0,1994.43,0.0,Credit Card,Cancelled,False,False
+583,124,13,17,5,696668c3eef41c8eeab0bbcf,2,449.0,898.0,360.62,0.0,Credit Card,Delivered,True,True
+584,124,14,17,5,696668c3eef41c8eeab0bbcf,1,499.0,499.0,360.62,0.0,Credit Card,Delivered,True,True
+585,124,24,17,5,696668c3eef41c8eeab0bbcf,2,1299.0,2598.0,360.62,0.0,Credit Card,Delivered,True,True
+586,124,1,17,5,696668c3eef41c8eeab0bbcf,3,1199.0,3597.0,360.62,0.0,Credit Card,Delivered,True,True
+587,191,27,18,12,696668c3eef41c8eeab0bbd4,1,129.0,129.0,382.47,0.0,Bank Transfer,Delivered,True,True
+588,191,8,18,12,696668c3eef41c8eeab0bbd4,3,1299.0,3897.0,382.47,0.0,Bank Transfer,Delivered,True,True
+589,42,18,9,7,696668c3eef41c8eeab0bbd7,1,249.0,249.0,185.39,0.0,Credit Card,Delivered,True,True
+590,42,27,9,7,696668c3eef41c8eeab0bbd7,2,129.0,258.0,185.39,0.0,Credit Card,Delivered,True,True
+591,42,4,9,7,696668c3eef41c8eeab0bbd7,2,899.0,1798.0,185.39,0.0,Credit Card,Delivered,True,True
+592,42,15,9,7,696668c3eef41c8eeab0bbd7,2,799.0,1598.0,185.39,0.0,Credit Card,Delivered,True,True
+593,35,10,18,7,696668c3eef41c8eeab0bbdc,2,1099.0,2198.0,275.12,0.0,Bank Transfer,Delivered,True,True
+594,35,28,18,7,696668c3eef41c8eeab0bbdc,2,349.0,698.0,275.12,0.0,Bank Transfer,Delivered,True,True
+595,163,20,33,14,696668c3eef41c8eeab0bbdf,3,179.0,537.0,118.05,0.0,Cash on Delivery,Delivered,True,True
+596,163,13,33,14,696668c3eef41c8eeab0bbdf,2,449.0,898.0,118.05,0.0,Cash on Delivery,Delivered,True,True
+597,163,16,33,14,696668c3eef41c8eeab0bbdf,1,429.0,429.0,118.05,0.0,Cash on Delivery,Delivered,True,True
+598,143,13,4,8,696668c3eef41c8eeab0bbe3,1,449.0,449.0,203.06,0.0,Credit Card,Delivered,True,True
+599,143,2,4,8,696668c3eef41c8eeab0bbe3,1,999.0,999.0,203.06,0.0,Credit Card,Delivered,True,True
+600,143,1,4,8,696668c3eef41c8eeab0bbe3,2,1199.0,2398.0,203.06,0.0,Credit Card,Delivered,True,True
+601,143,16,4,8,696668c3eef41c8eeab0bbe3,1,429.0,429.0,203.06,0.0,Credit Card,Delivered,True,True
+602,96,3,25,1,696668c3eef41c8eeab0bbe8,3,799.0,2397.0,341.57,0.0,Cash on Delivery,Delivered,True,True
+603,96,17,25,1,696668c3eef41c8eeab0bbe8,1,399.0,399.0,341.57,0.0,Cash on Delivery,Delivered,True,True
+604,96,24,25,1,696668c3eef41c8eeab0bbe8,2,1299.0,2598.0,341.57,0.0,Cash on Delivery,Delivered,True,True
+605,96,12,25,1,696668c3eef41c8eeab0bbe8,3,599.0,1797.0,341.57,0.0,Cash on Delivery,Delivered,True,True
+606,155,11,22,4,696668c3eef41c8eeab0bbed,3,799.0,2397.0,455.43,0.0,Credit Card,Delivered,True,True
+607,85,10,20,4,696668c3eef41c8eeab0bbef,3,1099.0,3297.0,626.43,0.0,Bank Transfer,Delivered,True,True
+608,207,19,19,6,696668c3eef41c8eeab0bbf1,3,249.0,747.0,141.93,15.0,PayPal,Delivered,True,True
+609,186,1,1,8,696668c3eef41c8eeab0bbf3,1,1199.0,1199.0,320.29,0.0,Credit Card,Shipped,True,False
+610,186,13,1,8,696668c3eef41c8eeab0bbf3,1,449.0,449.0,320.29,0.0,Credit Card,Shipped,True,False
+611,186,12,1,8,696668c3eef41c8eeab0bbf3,2,599.0,1198.0,320.29,0.0,Credit Card,Shipped,True,False
+612,186,8,1,8,696668c3eef41c8eeab0bbf3,3,1299.0,3897.0,320.29,0.0,Credit Card,Shipped,True,False
+613,29,26,4,6,696668c3eef41c8eeab0bbf8,3,6999.0,20997.0,3989.43,0.0,Cash on Delivery,Delivered,True,True
+614,37,14,9,10,696668c3eef41c8eeab0bbfa,1,499.0,499.0,441.32,0.0,PayPal,Shipped,True,False
+615,37,25,9,10,696668c3eef41c8eeab0bbfa,2,1999.0,3998.0,441.32,0.0,PayPal,Shipped,True,False
+616,37,15,9,10,696668c3eef41c8eeab0bbfa,3,799.0,2397.0,441.32,0.0,PayPal,Shipped,True,False
+617,37,11,9,10,696668c3eef41c8eeab0bbfa,3,799.0,2397.0,441.32,0.0,PayPal,Shipped,True,False
+618,255,15,31,1,696668c3eef41c8eeab0bbff,3,799.0,2397.0,239.02,0.0,Credit Card,Delivered,True,True
+619,255,20,31,1,696668c3eef41c8eeab0bbff,1,179.0,179.0,239.02,0.0,Credit Card,Delivered,True,True
+620,255,12,31,1,696668c3eef41c8eeab0bbff,2,599.0,1198.0,239.02,0.0,Credit Card,Delivered,True,True
+621,202,16,21,8,696668c3eef41c8eeab0bc03,2,429.0,858.0,423.22,0.0,Bank Transfer,Delivered,True,True
+622,202,1,21,8,696668c3eef41c8eeab0bc03,3,1199.0,3597.0,423.22,0.0,Bank Transfer,Delivered,True,True
+623,36,26,23,3,696668c3eef41c8eeab0bc06,2,6999.0,13998.0,906.92,0.0,Credit Card,Delivered,True,True
+624,36,22,23,3,696668c3eef41c8eeab0bc06,3,1299.0,3897.0,906.92,0.0,Credit Card,Delivered,True,True
+625,36,3,23,3,696668c3eef41c8eeab0bc06,1,799.0,799.0,906.92,0.0,Credit Card,Delivered,True,True
+626,36,17,23,3,696668c3eef41c8eeab0bc06,1,399.0,399.0,906.92,0.0,Credit Card,Delivered,True,True
+627,223,4,24,9,696668c3eef41c8eeab0bc0b,3,899.0,2697.0,512.43,0.0,Cash on Delivery,Shipped,True,False
+628,249,11,26,4,696668c3eef41c8eeab0bc0d,3,799.0,2397.0,455.43,0.0,PayPal,Cancelled,False,False
+629,257,26,29,14,696668c3eef41c8eeab0bc0f,1,6999.0,6999.0,854.72,0.0,Cash on Delivery,Delivered,True,True
+630,257,2,29,14,696668c3eef41c8eeab0bc0f,2,999.0,1998.0,854.72,0.0,Cash on Delivery,Delivered,True,True
+631,103,29,12,3,696668c3eef41c8eeab0bc12,3,39.0,117.0,201.02,0.0,PayPal,Delivered,True,True
+632,103,7,12,3,696668c3eef41c8eeab0bc12,1,1999.0,1999.0,201.02,0.0,PayPal,Delivered,True,True
+633,115,19,17,13,696668c3eef41c8eeab0bc15,1,249.0,249.0,192.91,0.0,Credit Card,Delivered,True,True
+634,115,10,17,13,696668c3eef41c8eeab0bc15,2,1099.0,2198.0,192.91,0.0,Credit Card,Delivered,True,True
+635,115,23,17,13,696668c3eef41c8eeab0bc15,1,599.0,599.0,192.91,0.0,Credit Card,Delivered,True,True
+636,126,29,29,7,696668c3eef41c8eeab0bc19,1,39.0,39.0,7.41,15.0,Credit Card,Delivered,True,True
+637,22,9,19,13,696668c3eef41c8eeab0bc1b,3,1099.0,3297.0,449.16,0.0,PayPal,Delivered,True,True
+638,22,2,19,13,696668c3eef41c8eeab0bc1b,2,999.0,1998.0,449.16,0.0,PayPal,Delivered,True,True
+639,22,23,19,13,696668c3eef41c8eeab0bc1b,3,599.0,1797.0,449.16,0.0,PayPal,Delivered,True,True
+640,191,14,17,1,696668c3eef41c8eeab0bc1f,2,499.0,998.0,189.62,15.0,Cash on Delivery,Delivered,True,True
+641,42,1,17,7,696668c3eef41c8eeab0bc21,3,1199.0,3597.0,531.52,0.0,Cash on Delivery,Delivered,True,True
+642,42,2,17,7,696668c3eef41c8eeab0bc21,2,999.0,1998.0,531.52,0.0,Cash on Delivery,Delivered,True,True
+643,220,26,21,14,696668c3eef41c8eeab0bc24,2,6999.0,13998.0,877.47,0.0,Bank Transfer,Delivered,True,True
+644,220,24,21,14,696668c3eef41c8eeab0bc24,3,1299.0,3897.0,877.47,0.0,Bank Transfer,Delivered,True,True
+645,220,13,21,14,696668c3eef41c8eeab0bc24,1,449.0,449.0,877.47,0.0,Bank Transfer,Delivered,True,True
+646,220,27,21,14,696668c3eef41c8eeab0bc24,1,129.0,129.0,877.47,0.0,Bank Transfer,Delivered,True,True
+647,228,29,21,7,696668c3eef41c8eeab0bc29,2,39.0,78.0,14.82,15.0,Bank Transfer,Delivered,True,True
+648,260,18,28,7,696668c3eef41c8eeab0bc2b,3,249.0,747.0,141.93,15.0,PayPal,Cancelled,False,False
+649,132,2,18,4,696668c3eef41c8eeab0bc2d,3,999.0,2997.0,512.43,0.0,Bank Transfer,Refunded,False,False
+650,132,15,18,4,696668c3eef41c8eeab0bc2d,3,799.0,2397.0,512.43,0.0,Bank Transfer,Refunded,False,False
+651,260,18,23,15,696668c3eef41c8eeab0bc30,1,249.0,249.0,296.4,0.0,Cash on Delivery,Shipped,True,False
+652,260,14,23,15,696668c3eef41c8eeab0bc30,3,499.0,1497.0,296.4,0.0,Cash on Delivery,Shipped,True,False
+653,260,17,23,15,696668c3eef41c8eeab0bc30,3,399.0,1197.0,296.4,0.0,Cash on Delivery,Shipped,True,False
+654,260,9,23,15,696668c3eef41c8eeab0bc30,3,1099.0,3297.0,296.4,0.0,Cash on Delivery,Shipped,True,False
+655,201,1,20,14,696668c3eef41c8eeab0bc35,2,1199.0,2398.0,455.62,0.0,Bank Transfer,Delivered,True,True
+656,238,9,23,9,696668c3eef41c8eeab0bc37,1,1099.0,1099.0,227.81,0.0,PayPal,Delivered,True,True
+657,238,24,23,9,696668c3eef41c8eeab0bc37,1,1299.0,1299.0,227.81,0.0,PayPal,Delivered,True,True
+658,124,13,20,11,696668c3eef41c8eeab0bc3a,3,449.0,1347.0,222.87,0.0,PayPal,Cancelled,False,False
+659,124,2,20,11,696668c3eef41c8eeab0bc3a,1,999.0,999.0,222.87,0.0,PayPal,Cancelled,False,False
+660,23,6,6,6,696668c3eef41c8eeab0bc3d,1,3499.0,3499.0,664.81,0.0,PayPal,Delivered,True,True
+661,32,13,8,11,696668c3eef41c8eeab0bc3f,2,449.0,898.0,274.99,0.0,Bank Transfer,Delivered,True,True
+662,32,11,8,11,696668c3eef41c8eeab0bc3f,3,799.0,2397.0,274.99,0.0,Bank Transfer,Delivered,True,True
+663,32,28,8,11,696668c3eef41c8eeab0bc3f,3,349.0,1047.0,274.99,0.0,Bank Transfer,Delivered,True,True
+664,31,9,11,2,696668c3eef41c8eeab0bc43,3,1099.0,3297.0,294.17,0.0,Bank Transfer,Delivered,True,True
+665,31,22,11,2,696668c3eef41c8eeab0bc43,1,1299.0,1299.0,294.17,0.0,Bank Transfer,Delivered,True,True
+666,31,17,11,2,696668c3eef41c8eeab0bc43,1,399.0,399.0,294.17,0.0,Bank Transfer,Delivered,True,True
+667,31,23,11,2,696668c3eef41c8eeab0bc43,2,599.0,1198.0,294.17,0.0,Bank Transfer,Delivered,True,True
+668,217,7,10,15,696668c3eef41c8eeab0bc48,1,1999.0,1999.0,303.71,0.0,Credit Card,Delivered,True,True
+669,217,23,10,15,696668c3eef41c8eeab0bc48,2,599.0,1198.0,303.71,0.0,Credit Card,Delivered,True,True
+670,189,17,29,2,696668c3eef41c8eeab0bc4b,1,399.0,399.0,142.22,0.0,Cash on Delivery,Shipped,True,False
+671,189,21,29,2,696668c3eef41c8eeab0bc4b,2,549.0,1098.0,142.22,0.0,Cash on Delivery,Shipped,True,False
+672,153,7,32,10,696668c3eef41c8eeab0bc4e,3,1999.0,5997.0,598.07,0.0,PayPal,Delivered,True,True
+673,153,14,32,10,696668c3eef41c8eeab0bc4e,3,499.0,1497.0,598.07,0.0,PayPal,Delivered,True,True
+674,153,3,32,10,696668c3eef41c8eeab0bc4e,2,799.0,1598.0,598.07,0.0,PayPal,Delivered,True,True
+675,153,6,32,10,696668c3eef41c8eeab0bc4e,1,3499.0,3499.0,598.07,0.0,PayPal,Delivered,True,True
+676,67,7,10,12,696668c3eef41c8eeab0bc53,3,1999.0,5997.0,683.62,0.0,PayPal,Refunded,False,False
+677,67,1,10,12,696668c3eef41c8eeab0bc53,1,1199.0,1199.0,683.62,0.0,PayPal,Refunded,False,False
+678,198,18,12,6,696668c3eef41c8eeab0bc56,2,249.0,498.0,94.62,15.0,Cash on Delivery,Delivered,True,True
+679,68,2,2,15,696668c3eef41c8eeab0bc58,2,999.0,1998.0,400.52,0.0,Cash on Delivery,Delivered,True,True
+680,68,22,2,15,696668c3eef41c8eeab0bc58,3,1299.0,3897.0,400.52,0.0,Cash on Delivery,Delivered,True,True
+681,68,16,2,15,696668c3eef41c8eeab0bc58,1,429.0,429.0,400.52,0.0,Cash on Delivery,Delivered,True,True
+682,16,12,11,6,696668c3eef41c8eeab0bc5c,2,599.0,1198.0,227.62,0.0,PayPal,Delivered,True,True
+683,128,20,7,5,696668c3eef41c8eeab0bc5e,1,179.0,179.0,34.01,15.0,PayPal,Delivered,True,True
+684,140,20,28,8,696668c3eef41c8eeab0bc60,3,179.0,537.0,402.42,0.0,Cash on Delivery,Delivered,True,True
+685,140,29,28,8,696668c3eef41c8eeab0bc60,1,39.0,39.0,402.42,0.0,Cash on Delivery,Delivered,True,True
+686,140,13,28,8,696668c3eef41c8eeab0bc60,2,449.0,898.0,402.42,0.0,Cash on Delivery,Delivered,True,True
+687,140,6,28,8,696668c3eef41c8eeab0bc60,2,3499.0,6998.0,402.42,0.0,Cash on Delivery,Delivered,True,True
+688,199,9,24,6,696668c3eef41c8eeab0bc65,1,1099.0,1099.0,373.41,0.0,Cash on Delivery,Delivered,True,True
+689,199,7,24,6,696668c3eef41c8eeab0bc65,2,1999.0,3998.0,373.41,0.0,Cash on Delivery,Delivered,True,True
+690,199,11,24,6,696668c3eef41c8eeab0bc65,1,799.0,799.0,373.41,0.0,Cash on Delivery,Delivered,True,True
+691,66,12,17,13,696668c3eef41c8eeab0bc69,3,599.0,1797.0,415.15,0.0,Bank Transfer,Delivered,True,True
+692,66,19,17,13,696668c3eef41c8eeab0bc69,3,249.0,747.0,415.15,0.0,Bank Transfer,Delivered,True,True
+693,66,7,17,13,696668c3eef41c8eeab0bc69,2,1999.0,3998.0,415.15,0.0,Bank Transfer,Delivered,True,True
+694,66,10,17,13,696668c3eef41c8eeab0bc69,2,1099.0,2198.0,415.15,0.0,Bank Transfer,Delivered,True,True
+695,157,4,15,3,696668c3eef41c8eeab0bc6e,1,899.0,899.0,370.12,0.0,Bank Transfer,Shipped,True,False
+696,157,2,15,3,696668c3eef41c8eeab0bc6e,3,999.0,2997.0,370.12,0.0,Bank Transfer,Shipped,True,False
+697,142,14,15,5,696668c3eef41c8eeab0bc71,3,499.0,1497.0,284.43,0.0,Bank Transfer,Delivered,True,True
+698,262,27,21,8,696668c3eef41c8eeab0bc73,2,129.0,258.0,218.55,0.0,PayPal,Refunded,False,False
+699,262,3,21,8,696668c3eef41c8eeab0bc73,2,799.0,1598.0,218.55,0.0,PayPal,Refunded,False,False
+700,262,5,21,8,696668c3eef41c8eeab0bc73,2,699.0,1398.0,218.55,0.0,PayPal,Refunded,False,False
+701,262,13,21,8,696668c3eef41c8eeab0bc73,3,449.0,1347.0,218.55,0.0,PayPal,Refunded,False,False
+702,44,24,4,9,696668c3eef41c8eeab0bc78,3,1299.0,3897.0,493.62,0.0,Cash on Delivery,Refunded,False,False
+703,44,22,4,9,696668c3eef41c8eeab0bc78,1,1299.0,1299.0,493.62,0.0,Cash on Delivery,Refunded,False,False
+704,19,4,18,9,696668c3eef41c8eeab0bc7b,1,899.0,899.0,531.62,0.0,Cash on Delivery,Delivered,True,True
+705,19,22,18,9,696668c3eef41c8eeab0bc7b,3,1299.0,3897.0,531.62,0.0,Cash on Delivery,Delivered,True,True
+706,19,7,18,9,696668c3eef41c8eeab0bc7b,3,1999.0,5997.0,531.62,0.0,Cash on Delivery,Delivered,True,True
+707,19,17,18,9,696668c3eef41c8eeab0bc7b,1,399.0,399.0,531.62,0.0,Cash on Delivery,Delivered,True,True
+708,20,3,32,13,696668c3eef41c8eeab0bc80,3,799.0,2397.0,469.78,0.0,PayPal,Delivered,True,True
+709,20,4,32,13,696668c3eef41c8eeab0bc80,3,899.0,2697.0,469.78,0.0,PayPal,Delivered,True,True
+710,20,10,32,13,696668c3eef41c8eeab0bc80,2,1099.0,2198.0,469.78,0.0,PayPal,Delivered,True,True
+711,20,22,32,13,696668c3eef41c8eeab0bc80,2,1299.0,2598.0,469.78,0.0,PayPal,Delivered,True,True
+712,235,19,6,8,696668c3eef41c8eeab0bc85,3,249.0,747.0,269.85,0.0,Cash on Delivery,Shipped,True,False
+713,235,9,6,8,696668c3eef41c8eeab0bc85,3,1099.0,3297.0,269.85,0.0,Cash on Delivery,Shipped,True,False
+714,235,29,6,8,696668c3eef41c8eeab0bc85,1,39.0,39.0,269.85,0.0,Cash on Delivery,Shipped,True,False
+715,235,3,6,8,696668c3eef41c8eeab0bc85,2,799.0,1598.0,269.85,0.0,Cash on Delivery,Shipped,True,False
+716,204,24,25,7,696668c3eef41c8eeab0bc8a,2,1299.0,2598.0,650.37,0.0,Cash on Delivery,Shipped,True,False
+717,204,6,25,7,696668c3eef41c8eeab0bc8a,1,3499.0,3499.0,650.37,0.0,Cash on Delivery,Shipped,True,False
+718,204,7,25,7,696668c3eef41c8eeab0bc8a,3,1999.0,5997.0,650.37,0.0,Cash on Delivery,Shipped,True,False
+719,204,15,25,7,696668c3eef41c8eeab0bc8a,2,799.0,1598.0,650.37,0.0,Cash on Delivery,Shipped,True,False
+720,15,10,8,9,696668c3eef41c8eeab0bc8f,2,1099.0,2198.0,197.17,0.0,Cash on Delivery,Delivered,True,True
+721,15,29,8,9,696668c3eef41c8eeab0bc8f,3,39.0,117.0,197.17,0.0,Cash on Delivery,Delivered,True,True
+722,15,21,8,9,696668c3eef41c8eeab0bc8f,1,549.0,549.0,197.17,0.0,Cash on Delivery,Delivered,True,True
+723,15,16,8,9,696668c3eef41c8eeab0bc8f,3,429.0,1287.0,197.17,0.0,Cash on Delivery,Delivered,True,True
+724,219,23,8,13,696668c3eef41c8eeab0bc94,3,599.0,1797.0,655.02,0.0,PayPal,Delivered,True,True
+725,219,18,8,13,696668c3eef41c8eeab0bc94,2,249.0,498.0,655.02,0.0,PayPal,Delivered,True,True
+726,219,6,8,13,696668c3eef41c8eeab0bc94,3,3499.0,10497.0,655.02,0.0,PayPal,Delivered,True,True
+727,219,14,8,13,696668c3eef41c8eeab0bc94,2,499.0,998.0,655.02,0.0,PayPal,Delivered,True,True
+728,3,29,33,1,696668c3eef41c8eeab0bc99,1,39.0,39.0,398.05,0.0,Cash on Delivery,Delivered,True,True
+729,3,18,33,1,696668c3eef41c8eeab0bc99,1,249.0,249.0,398.05,0.0,Cash on Delivery,Delivered,True,True
+730,3,7,33,1,696668c3eef41c8eeab0bc99,3,1999.0,5997.0,398.05,0.0,Cash on Delivery,Delivered,True,True
+731,156,4,20,9,696668c3eef41c8eeab0bc9d,1,899.0,899.0,151.72,0.0,PayPal,Delivered,True,True
+732,156,28,20,9,696668c3eef41c8eeab0bc9d,2,349.0,698.0,151.72,0.0,PayPal,Delivered,True,True
+733,72,29,6,11,696668c3eef41c8eeab0bca0,1,39.0,39.0,673.49,0.0,Bank Transfer,Processing,True,False
+734,72,6,6,11,696668c3eef41c8eeab0bca0,2,3499.0,6998.0,673.49,0.0,Bank Transfer,Processing,True,False
+735,72,1,6,11,696668c3eef41c8eeab0bca0,3,1199.0,3597.0,673.49,0.0,Bank Transfer,Processing,True,False
+736,258,1,25,3,696668c3eef41c8eeab0bca4,3,1199.0,3597.0,683.43,0.0,Credit Card,Delivered,True,True
+737,16,3,13,4,696668c3eef41c8eeab0bca6,3,799.0,2397.0,455.52,0.0,PayPal,Delivered,True,True
+738,16,1,13,4,696668c3eef41c8eeab0bca6,2,1199.0,2398.0,455.52,0.0,PayPal,Delivered,True,True
+739,271,20,6,1,696668c3eef41c8eeab0bca9,3,179.0,537.0,185.69,0.0,Bank Transfer,Delivered,True,True
+740,271,12,6,1,696668c3eef41c8eeab0bca9,2,599.0,1198.0,185.69,0.0,Bank Transfer,Delivered,True,True
+741,271,17,6,1,696668c3eef41c8eeab0bca9,3,399.0,1197.0,185.69,0.0,Bank Transfer,Delivered,True,True
+742,14,17,19,2,696668c3eef41c8eeab0bcad,2,399.0,798.0,151.62,15.0,Cash on Delivery,Refunded,False,False
+743,177,12,17,4,696668c3eef41c8eeab0bcaf,1,599.0,599.0,284.62,0.0,Cash on Delivery,Delivered,True,True
+744,177,15,17,4,696668c3eef41c8eeab0bcaf,3,799.0,2397.0,284.62,0.0,Cash on Delivery,Delivered,True,True
+745,65,14,26,13,696668c3eef41c8eeab0bcb2,1,499.0,499.0,94.81,15.0,Credit Card,Delivered,True,True
+746,196,4,13,12,696668c3eef41c8eeab0bcb4,3,899.0,2697.0,366.89,0.0,Cash on Delivery,Delivered,True,True
+747,196,28,13,12,696668c3eef41c8eeab0bcb4,2,349.0,698.0,366.89,0.0,Cash on Delivery,Delivered,True,True
+748,196,1,13,12,696668c3eef41c8eeab0bcb4,2,1199.0,2398.0,366.89,0.0,Cash on Delivery,Delivered,True,True
+749,259,9,20,2,696668c3eef41c8eeab0bcb8,3,1099.0,3297.0,727.89,0.0,Credit Card,Delivered,True,True
+750,259,23,20,2,696668c3eef41c8eeab0bcb8,2,599.0,1198.0,727.89,0.0,Credit Card,Delivered,True,True
+751,259,6,20,2,696668c3eef41c8eeab0bcb8,2,3499.0,6998.0,727.89,0.0,Credit Card,Delivered,True,True
+752,231,1,19,2,696668c3eef41c8eeab0bcbc,2,1199.0,2398.0,275.12,0.0,Cash on Delivery,Cancelled,False,False
+753,231,18,19,2,696668c3eef41c8eeab0bcbc,2,249.0,498.0,275.12,0.0,Cash on Delivery,Cancelled,False,False
+754,75,25,23,3,696668c3eef41c8eeab0bcbf,2,1999.0,3998.0,429.92,0.0,Credit Card,Delivered,True,True
+755,75,5,23,3,696668c3eef41c8eeab0bcbf,2,699.0,1398.0,429.92,0.0,Credit Card,Delivered,True,True
+756,75,20,23,3,696668c3eef41c8eeab0bcbf,2,179.0,358.0,429.92,0.0,Credit Card,Delivered,True,True
+757,75,9,23,3,696668c3eef41c8eeab0bcbf,3,1099.0,3297.0,429.92,0.0,Credit Card,Delivered,True,True
+758,20,26,27,12,696668c3eef41c8eeab0bcc4,2,6999.0,13998.0,1709.62,0.0,Credit Card,Delivered,True,True
+759,20,25,27,12,696668c3eef41c8eeab0bcc4,2,1999.0,3998.0,1709.62,0.0,Credit Card,Delivered,True,True
+760,27,18,23,1,696668c3eef41c8eeab0bcc7,2,249.0,498.0,224.52,0.0,PayPal,Delivered,True,True
+761,27,13,23,1,696668c3eef41c8eeab0bcc7,1,449.0,449.0,224.52,0.0,PayPal,Delivered,True,True
+762,27,22,23,1,696668c3eef41c8eeab0bcc7,2,1299.0,2598.0,224.52,0.0,PayPal,Delivered,True,True
+763,151,6,3,1,696668c3eef41c8eeab0bccb,2,3499.0,6998.0,616.42,0.0,Credit Card,Delivered,True,True
+764,151,9,3,1,696668c3eef41c8eeab0bccb,2,1099.0,2198.0,616.42,0.0,Credit Card,Delivered,True,True
+765,151,20,3,1,696668c3eef41c8eeab0bccb,3,179.0,537.0,616.42,0.0,Credit Card,Delivered,True,True
+766,95,28,10,15,696668c3eef41c8eeab0bccf,3,349.0,1047.0,835.43,0.0,Credit Card,Shipped,True,False
+767,95,6,10,15,696668c3eef41c8eeab0bccf,3,3499.0,10497.0,835.43,0.0,Credit Card,Shipped,True,False
+768,95,21,10,15,696668c3eef41c8eeab0bccf,3,549.0,1647.0,835.43,0.0,Credit Card,Shipped,True,False
+769,207,2,3,14,696668c3eef41c8eeab0bcd3,2,999.0,1998.0,402.48,0.0,Bank Transfer,Shipped,True,False
+770,207,6,3,14,696668c3eef41c8eeab0bcd3,1,3499.0,3499.0,402.48,0.0,Bank Transfer,Shipped,True,False
+771,207,16,3,14,696668c3eef41c8eeab0bcd3,2,429.0,858.0,402.48,0.0,Bank Transfer,Shipped,True,False
+772,243,23,24,1,696668c3eef41c8eeab0bcd7,2,599.0,1198.0,602.78,0.0,Cash on Delivery,Delivered,True,True
+773,243,1,24,1,696668c3eef41c8eeab0bcd7,3,1199.0,3597.0,602.78,0.0,Cash on Delivery,Delivered,True,True
+774,243,8,24,1,696668c3eef41c8eeab0bcd7,3,1299.0,3897.0,602.78,0.0,Cash on Delivery,Delivered,True,True
+775,243,25,24,1,696668c3eef41c8eeab0bcd7,2,1999.0,3998.0,602.78,0.0,Cash on Delivery,Delivered,True,True
+776,208,24,17,8,696668c3eef41c8eeab0bcdc,2,1299.0,2598.0,493.62,0.0,Bank Transfer,Delivered,True,True
+777,47,6,6,2,696668c3eef41c8eeab0bcde,1,3499.0,3499.0,446.12,0.0,PayPal,Delivered,True,True
+778,47,17,6,2,696668c3eef41c8eeab0bcde,3,399.0,1197.0,446.12,0.0,PayPal,Delivered,True,True
+779,219,26,2,10,696668c3eef41c8eeab0bce1,2,6999.0,13998.0,2659.62,0.0,PayPal,Delivered,True,True
+780,74,9,16,13,696668c3eef41c8eeab0bce3,3,1099.0,3297.0,257.96,0.0,Cash on Delivery,Delivered,True,True
+781,74,28,16,13,696668c3eef41c8eeab0bce3,2,349.0,698.0,257.96,0.0,Cash on Delivery,Delivered,True,True
+782,74,29,16,13,696668c3eef41c8eeab0bce3,2,39.0,78.0,257.96,0.0,Cash on Delivery,Delivered,True,True
+783,113,23,22,15,696668c3eef41c8eeab0bce7,3,599.0,1797.0,936.83,0.0,Cash on Delivery,Delivered,True,True
+784,113,6,22,15,696668c3eef41c8eeab0bce7,2,3499.0,6998.0,936.83,0.0,Cash on Delivery,Delivered,True,True
+785,113,25,22,15,696668c3eef41c8eeab0bce7,3,1999.0,5997.0,936.83,0.0,Cash on Delivery,Delivered,True,True
+786,212,7,11,5,696668c3eef41c8eeab0bceb,3,1999.0,5997.0,1566.93,0.0,Bank Transfer,Delivered,True,True
+787,212,6,11,5,696668c3eef41c8eeab0bceb,3,3499.0,10497.0,1566.93,0.0,Bank Transfer,Delivered,True,True
+788,196,4,23,5,696668c3eef41c8eeab0bcee,1,899.0,899.0,139.32,0.0,Credit Card,Delivered,True,True
+789,196,14,23,5,696668c3eef41c8eeab0bcee,3,499.0,1497.0,139.32,0.0,Credit Card,Delivered,True,True
+790,196,18,23,5,696668c3eef41c8eeab0bcee,2,249.0,498.0,139.32,0.0,Credit Card,Delivered,True,True
+791,196,29,23,5,696668c3eef41c8eeab0bcee,1,39.0,39.0,139.32,0.0,Credit Card,Delivered,True,True
+792,185,2,18,9,696668c3eef41c8eeab0bcf3,3,999.0,2997.0,563.16,0.0,PayPal,Delivered,True,True
+793,185,24,18,9,696668c3eef41c8eeab0bcf3,2,1299.0,2598.0,563.16,0.0,PayPal,Delivered,True,True
+794,185,10,18,9,696668c3eef41c8eeab0bcf3,3,1099.0,3297.0,563.16,0.0,PayPal,Delivered,True,True
+795,61,20,4,6,696668c3eef41c8eeab0bcf7,3,179.0,537.0,278.73,0.0,PayPal,Delivered,True,True
+796,61,15,4,6,696668c3eef41c8eeab0bcf7,3,799.0,2397.0,278.73,0.0,PayPal,Delivered,True,True
+797,112,24,12,2,696668c3eef41c8eeab0bcfa,1,1299.0,1299.0,246.81,0.0,Cash on Delivery,Delivered,True,True
+798,196,24,19,4,696668c3eef41c8eeab0bcfc,3,1299.0,3897.0,484.12,0.0,Cash on Delivery,Refunded,False,False
+799,196,1,19,4,696668c3eef41c8eeab0bcfc,1,1199.0,1199.0,484.12,0.0,Cash on Delivery,Refunded,False,False
+800,185,2,17,7,696668c3eef41c8eeab0bcff,1,999.0,999.0,180.31,0.0,Credit Card,Shipped,True,False
+801,185,4,17,7,696668c3eef41c8eeab0bcff,1,899.0,899.0,180.31,0.0,Credit Card,Shipped,True,False
+802,44,7,12,1,696668c3eef41c8eeab0bd02,1,1999.0,1999.0,398.72,0.0,Cash on Delivery,Cancelled,False,False
+803,44,10,12,1,696668c3eef41c8eeab0bd02,2,1099.0,2198.0,398.72,0.0,Cash on Delivery,Cancelled,False,False
+804,54,21,3,3,696668c3eef41c8eeab0bd05,3,549.0,1647.0,807.06,0.0,PayPal,Delivered,True,True
+805,54,6,3,3,696668c3eef41c8eeab0bd05,3,3499.0,10497.0,807.06,0.0,PayPal,Delivered,True,True
+806,54,12,3,3,696668c3eef41c8eeab0bd05,1,599.0,599.0,807.06,0.0,PayPal,Delivered,True,True
+807,88,16,19,8,696668c3eef41c8eeab0bd09,2,429.0,858.0,244.09,0.0,PayPal,Delivered,True,True
+808,88,17,19,8,696668c3eef41c8eeab0bd09,2,399.0,798.0,244.09,0.0,PayPal,Delivered,True,True
+809,88,9,19,8,696668c3eef41c8eeab0bd09,2,1099.0,2198.0,244.09,0.0,PayPal,Delivered,True,True
+810,78,19,33,12,696668c3eef41c8eeab0bd0d,2,249.0,498.0,132.72,0.0,Bank Transfer,Processing,True,False
+811,78,4,33,12,696668c3eef41c8eeab0bd0d,1,899.0,899.0,132.72,0.0,Bank Transfer,Processing,True,False
+812,29,16,4,9,696668c3eef41c8eeab0bd10,2,429.0,858.0,163.02,15.0,PayPal,Shipped,True,False
+813,173,7,33,12,696668c3eef41c8eeab0bd12,1,1999.0,1999.0,2184.62,0.0,Bank Transfer,Delivered,True,True
+814,173,26,33,12,696668c3eef41c8eeab0bd12,3,6999.0,20997.0,2184.62,0.0,Bank Transfer,Delivered,True,True
+815,195,15,22,9,696668c3eef41c8eeab0bd15,1,799.0,799.0,945.31,0.0,Credit Card,Delivered,True,True
+816,195,27,22,9,696668c3eef41c8eeab0bd15,1,129.0,129.0,945.31,0.0,Credit Card,Delivered,True,True
+817,195,26,22,9,696668c3eef41c8eeab0bd15,2,6999.0,13998.0,945.31,0.0,Credit Card,Delivered,True,True
+818,38,2,9,9,696668c3eef41c8eeab0bd19,3,999.0,2997.0,569.43,0.0,PayPal,Shipped,True,False
+819,120,8,24,12,696668c3eef41c8eeab0bd1b,1,1299.0,1299.0,141.79,0.0,Credit Card,Refunded,False,False
+820,120,5,24,12,696668c3eef41c8eeab0bd1b,1,699.0,699.0,141.79,0.0,Credit Card,Refunded,False,False
+821,120,27,24,12,696668c3eef41c8eeab0bd1b,1,129.0,129.0,141.79,0.0,Credit Card,Refunded,False,False
+822,120,16,24,12,696668c3eef41c8eeab0bd1b,2,429.0,858.0,141.79,0.0,Credit Card,Refunded,False,False
+823,196,29,31,10,696668c3eef41c8eeab0bd20,2,39.0,78.0,14.82,15.0,Credit Card,Shipped,True,False
+824,62,17,12,13,696668c3eef41c8eeab0bd22,3,399.0,1197.0,227.43,0.0,Credit Card,Delivered,True,True
+825,24,8,24,4,696668c3eef41c8eeab0bd24,3,1299.0,3897.0,465.02,0.0,PayPal,Delivered,True,True
+826,24,14,24,4,696668c3eef41c8eeab0bd24,2,499.0,998.0,465.02,0.0,PayPal,Delivered,True,True
+827,19,1,19,3,696668c3eef41c8eeab0bd27,1,1199.0,1199.0,137.56,0.0,Bank Transfer,Processing,True,False
+828,19,18,19,3,696668c3eef41c8eeab0bd27,1,249.0,249.0,137.56,0.0,Bank Transfer,Processing,True,False
+829,30,8,27,13,696668c3eef41c8eeab0bd2a,3,1299.0,3897.0,469.68,0.0,Cash on Delivery,Cancelled,False,False
+830,30,28,27,13,696668c3eef41c8eeab0bd2a,3,349.0,1047.0,469.68,0.0,Cash on Delivery,Cancelled,False,False
+831,190,15,20,13,696668c3eef41c8eeab0bd2d,1,799.0,799.0,436.57,0.0,Credit Card,Delivered,True,True
+832,190,24,20,13,696668c3eef41c8eeab0bd2d,3,1299.0,3897.0,436.57,0.0,Credit Card,Delivered,True,True
+833,190,23,20,13,696668c3eef41c8eeab0bd2d,2,599.0,1198.0,436.57,0.0,Credit Card,Delivered,True,True
+834,190,10,20,13,696668c3eef41c8eeab0bd2d,3,1099.0,3297.0,436.57,0.0,Credit Card,Delivered,True,True
+835,181,19,9,3,696668c3eef41c8eeab0bd32,3,249.0,747.0,184.78,0.0,Bank Transfer,Cancelled,False,False
+836,181,12,9,3,696668c3eef41c8eeab0bd32,2,599.0,1198.0,184.78,0.0,Bank Transfer,Cancelled,False,False
+837,50,5,3,5,696668c3eef41c8eeab0bd35,3,699.0,2097.0,246.52,0.0,Cash on Delivery,Shipped,True,False
+838,50,18,3,5,696668c3eef41c8eeab0bd35,2,249.0,498.0,246.52,0.0,Cash on Delivery,Shipped,True,False
+839,143,15,14,3,696668c3eef41c8eeab0bd38,2,799.0,1598.0,450.78,0.0,PayPal,Shipped,True,False
+840,143,11,14,3,696668c3eef41c8eeab0bd38,3,799.0,2397.0,450.78,0.0,PayPal,Shipped,True,False
+841,143,10,14,3,696668c3eef41c8eeab0bd38,3,1099.0,3297.0,450.78,0.0,PayPal,Shipped,True,False
+842,143,9,14,3,696668c3eef41c8eeab0bd38,2,1099.0,2198.0,450.78,0.0,PayPal,Shipped,True,False
+843,193,23,11,13,696668c3eef41c8eeab0bd3d,3,599.0,1797.0,294.12,0.0,Credit Card,Shipped,True,False
+844,193,24,11,13,696668c3eef41c8eeab0bd3d,1,1299.0,1299.0,294.12,0.0,Credit Card,Shipped,True,False
+845,233,14,24,13,696668c3eef41c8eeab0bd40,3,499.0,1497.0,218.02,0.0,Cash on Delivery,Delivered,True,True
+846,233,17,24,13,696668c3eef41c8eeab0bd40,2,399.0,798.0,218.02,0.0,Cash on Delivery,Delivered,True,True
+847,174,11,33,2,696668c3eef41c8eeab0bd43,1,799.0,799.0,959.12,0.0,Credit Card,Delivered,True,True
+848,174,2,33,2,696668c3eef41c8eeab0bd43,3,999.0,2997.0,959.12,0.0,Credit Card,Delivered,True,True
+849,174,1,33,2,696668c3eef41c8eeab0bd43,2,1199.0,2398.0,959.12,0.0,Credit Card,Delivered,True,True
+850,174,26,33,2,696668c3eef41c8eeab0bd43,2,6999.0,13998.0,959.12,0.0,Credit Card,Delivered,True,True
+851,224,14,6,13,696668c3eef41c8eeab0bd48,3,499.0,1497.0,284.43,0.0,Bank Transfer,Delivered,True,True
+852,114,1,32,1,696668c3eef41c8eeab0bd4a,2,1199.0,2398.0,455.62,0.0,PayPal,Delivered,True,True
+853,118,23,16,10,696668c3eef41c8eeab0bd4c,3,599.0,1797.0,1126.95,0.0,Bank Transfer,Delivered,True,True
+854,118,26,16,10,696668c3eef41c8eeab0bd4c,2,6999.0,13998.0,1126.95,0.0,Bank Transfer,Delivered,True,True
+855,118,25,16,10,696668c3eef41c8eeab0bd4c,1,1999.0,1999.0,1126.95,0.0,Bank Transfer,Delivered,True,True
+856,80,3,15,2,696668c3eef41c8eeab0bd50,3,799.0,2397.0,204.88,0.0,PayPal,Delivered,True,True
+857,80,15,15,2,696668c3eef41c8eeab0bd50,1,799.0,799.0,204.88,0.0,PayPal,Delivered,True,True
+858,80,29,15,2,696668c3eef41c8eeab0bd50,1,39.0,39.0,204.88,0.0,PayPal,Delivered,True,True
+859,186,13,19,3,696668c3eef41c8eeab0bd54,2,449.0,898.0,142.22,0.0,Cash on Delivery,Shipped,True,False
+860,186,23,19,3,696668c3eef41c8eeab0bd54,1,599.0,599.0,142.22,0.0,Cash on Delivery,Shipped,True,False
+861,164,7,25,10,696668c3eef41c8eeab0bd57,3,1999.0,5997.0,1139.43,0.0,Bank Transfer,Delivered,True,True
+862,189,14,20,15,696668c3eef41c8eeab0bd59,3,499.0,1497.0,341.43,0.0,PayPal,Delivered,True,True
+863,189,5,20,15,696668c3eef41c8eeab0bd59,3,699.0,2097.0,341.43,0.0,PayPal,Delivered,True,True
+864,205,24,18,6,696668c3eef41c8eeab0bd5c,3,1299.0,3897.0,740.43,0.0,Bank Transfer,Delivered,True,True
+865,213,23,16,8,696668c3eef41c8eeab0bd5e,1,599.0,599.0,97.66,0.0,Cash on Delivery,Delivered,True,True
+866,213,16,16,8,696668c3eef41c8eeab0bd5e,1,429.0,429.0,97.66,0.0,Cash on Delivery,Delivered,True,True
+867,112,4,6,12,696668c3eef41c8eeab0bd61,1,899.0,899.0,159.98,0.0,Credit Card,Delivered,True,True
+868,112,16,6,12,696668c3eef41c8eeab0bd61,1,429.0,429.0,159.98,0.0,Credit Card,Delivered,True,True
+869,112,12,6,12,696668c3eef41c8eeab0bd61,2,599.0,1198.0,159.98,0.0,Credit Card,Delivered,True,True
+870,171,14,27,13,696668c3eef41c8eeab0bd65,3,499.0,1497.0,512.43,0.0,Credit Card,Delivered,True,True
+871,171,8,27,13,696668c3eef41c8eeab0bd65,3,1299.0,3897.0,512.43,0.0,Credit Card,Delivered,True,True
+872,82,23,3,1,696668c3eef41c8eeab0bd68,2,599.0,1198.0,277.02,0.0,PayPal,Delivered,True,True
+873,82,20,3,1,696668c3eef41c8eeab0bd68,1,179.0,179.0,277.02,0.0,PayPal,Delivered,True,True
+874,82,2,3,1,696668c3eef41c8eeab0bd68,3,999.0,2997.0,277.02,0.0,PayPal,Delivered,True,True
+875,80,23,32,13,696668c3eef41c8eeab0bd6c,3,599.0,1797.0,328.89,0.0,PayPal,Delivered,True,True
+876,80,11,32,13,696668c3eef41c8eeab0bd6c,2,799.0,1598.0,328.89,0.0,PayPal,Delivered,True,True
+877,80,4,32,13,696668c3eef41c8eeab0bd6c,2,899.0,1798.0,328.89,0.0,PayPal,Delivered,True,True
+878,116,9,13,13,696668c3eef41c8eeab0bd70,1,1099.0,1099.0,148.45,0.0,Cash on Delivery,Delivered,True,True
+879,116,19,13,13,696668c3eef41c8eeab0bd70,3,249.0,747.0,148.45,0.0,Cash on Delivery,Delivered,True,True
+880,116,18,13,13,696668c3eef41c8eeab0bd70,2,249.0,498.0,148.45,0.0,Cash on Delivery,Delivered,True,True
+881,58,25,13,5,696668c3eef41c8eeab0bd74,3,1999.0,5997.0,740.43,0.0,PayPal,Cancelled,False,False
+882,58,8,13,5,696668c3eef41c8eeab0bd74,3,1299.0,3897.0,740.43,0.0,PayPal,Cancelled,False,False
+883,58,23,13,5,696668c3eef41c8eeab0bd74,3,599.0,1797.0,740.43,0.0,PayPal,Cancelled,False,False
+884,144,8,2,2,696668c3eef41c8eeab0bd78,2,1299.0,2598.0,493.62,0.0,Bank Transfer,Delivered,True,True
+885,178,19,21,14,696668c3eef41c8eeab0bd7a,3,249.0,747.0,97.85,0.0,Credit Card,Processing,True,False
+886,178,21,21,14,696668c3eef41c8eeab0bd7a,1,549.0,549.0,97.85,0.0,Credit Card,Processing,True,False
+887,178,18,21,14,696668c3eef41c8eeab0bd7a,1,249.0,249.0,97.85,0.0,Credit Card,Processing,True,False
+888,134,12,26,5,696668c3eef41c8eeab0bd7e,3,599.0,1797.0,252.95,0.0,PayPal,Delivered,True,True
+889,134,5,26,5,696668c3eef41c8eeab0bd7e,2,699.0,1398.0,252.95,0.0,PayPal,Delivered,True,True
+890,134,15,26,5,696668c3eef41c8eeab0bd7e,1,799.0,799.0,252.95,0.0,PayPal,Delivered,True,True
+891,149,21,8,12,696668c3eef41c8eeab0bd82,3,549.0,1647.0,312.93,0.0,PayPal,Delivered,True,True
+892,149,16,27,14,696668c3eef41c8eeab0bd84,2,429.0,858.0,265.62,0.0,PayPal,Shipped,True,False
+893,149,29,27,14,696668c3eef41c8eeab0bd84,1,39.0,39.0,265.62,0.0,PayPal,Shipped,True,False
+894,149,9,27,14,696668c3eef41c8eeab0bd84,3,1099.0,3297.0,265.62,0.0,PayPal,Shipped,True,False
+895,135,28,5,5,696668c3eef41c8eeab0bd88,1,349.0,349.0,294.18,0.0,Bank Transfer,Delivered,True,True
+896,135,2,5,5,696668c3eef41c8eeab0bd88,1,999.0,999.0,294.18,0.0,Bank Transfer,Delivered,True,True
+897,135,10,5,5,696668c3eef41c8eeab0bd88,3,1099.0,3297.0,294.18,0.0,Bank Transfer,Delivered,True,True
+898,162,7,8,13,696668c3eef41c8eeab0bd8c,3,1999.0,5997.0,606.48,0.0,PayPal,Delivered,True,True
+899,162,27,8,13,696668c3eef41c8eeab0bd8c,3,129.0,387.0,606.48,0.0,PayPal,Delivered,True,True
+900,127,24,11,7,696668c3eef41c8eeab0bd8f,2,1299.0,2598.0,279.96,0.0,PayPal,Delivered,True,True
+901,127,28,11,7,696668c3eef41c8eeab0bd8f,1,349.0,349.0,279.96,0.0,PayPal,Delivered,True,True
+902,179,23,19,6,696668c3eef41c8eeab0bd92,3,599.0,1797.0,316.29,0.0,Bank Transfer,Delivered,True,True
+903,179,11,19,6,696668c3eef41c8eeab0bd92,1,799.0,799.0,316.29,0.0,Bank Transfer,Delivered,True,True
+904,179,1,19,6,696668c3eef41c8eeab0bd92,2,1199.0,2398.0,316.29,0.0,Bank Transfer,Delivered,True,True
+905,97,9,1,13,696668c3eef41c8eeab0bd96,3,1099.0,3297.0,540.93,0.0,Cash on Delivery,Delivered,True,True
+906,97,3,1,13,696668c3eef41c8eeab0bd96,3,799.0,2397.0,540.93,0.0,Cash on Delivery,Delivered,True,True
+907,261,4,28,13,696668c3eef41c8eeab0bd99,2,899.0,1798.0,1034.42,0.0,Cash on Delivery,Delivered,True,True
+908,261,26,28,13,696668c3eef41c8eeab0bd99,2,6999.0,13998.0,1034.42,0.0,Cash on Delivery,Delivered,True,True
+909,261,20,28,13,696668c3eef41c8eeab0bd99,3,179.0,537.0,1034.42,0.0,Cash on Delivery,Delivered,True,True
+910,215,27,16,5,696668c3eef41c8eeab0bd9d,3,129.0,387.0,248.33,0.0,PayPal,Delivered,True,True
+911,215,20,16,5,696668c3eef41c8eeab0bd9d,3,179.0,537.0,248.33,0.0,PayPal,Delivered,True,True
+912,215,2,16,5,696668c3eef41c8eeab0bd9d,3,999.0,2997.0,248.33,0.0,PayPal,Delivered,True,True
+913,192,5,8,13,696668c3eef41c8eeab0bda1,3,699.0,2097.0,569.43,0.0,Credit Card,Delivered,True,True
+914,192,8,8,13,696668c3eef41c8eeab0bda1,3,1299.0,3897.0,569.43,0.0,Credit Card,Delivered,True,True
+915,109,25,9,2,696668c3eef41c8eeab0bda4,1,1999.0,1999.0,237.31,0.0,Credit Card,Delivered,True,True
+916,109,14,9,2,696668c3eef41c8eeab0bda4,1,499.0,499.0,237.31,0.0,Credit Card,Delivered,True,True
+917,150,5,3,14,696668c3eef41c8eeab0bda7,2,699.0,1398.0,274.64,0.0,PayPal,Delivered,True,True
+918,150,1,3,14,696668c3eef41c8eeab0bda7,3,1199.0,3597.0,274.64,0.0,PayPal,Delivered,True,True
+919,150,16,3,14,696668c3eef41c8eeab0bda7,1,429.0,429.0,274.64,0.0,PayPal,Delivered,True,True
+920,150,20,3,14,696668c3eef41c8eeab0bda7,2,179.0,358.0,274.64,0.0,PayPal,Delivered,True,True
+921,184,5,30,14,696668c3eef41c8eeab0bdac,2,699.0,1398.0,265.62,0.0,Cash on Delivery,Delivered,True,True
+922,173,28,33,13,696668c3eef41c8eeab0bdae,2,349.0,698.0,365.32,0.0,Cash on Delivery,Shipped,True,False
+923,173,8,33,13,696668c3eef41c8eeab0bdae,3,1299.0,3897.0,365.32,0.0,Cash on Delivery,Shipped,True,False
+924,173,13,33,13,696668c3eef41c8eeab0bdae,2,449.0,898.0,365.32,0.0,Cash on Delivery,Shipped,True,False
+925,173,10,33,13,696668c3eef41c8eeab0bdae,2,1099.0,2198.0,365.32,0.0,Cash on Delivery,Shipped,True,False
+926,62,20,29,8,696668c3eef41c8eeab0bdb3,2,179.0,358.0,68.02,15.0,Credit Card,Delivered,True,True
+927,176,9,12,15,696668c3eef41c8eeab0bdb5,2,1099.0,2198.0,465.02,0.0,Bank Transfer,Delivered,True,True
+928,176,4,12,15,696668c3eef41c8eeab0bdb5,3,899.0,2697.0,465.02,0.0,Bank Transfer,Delivered,True,True
+929,234,5,3,12,696668c3eef41c8eeab0bdb8,3,699.0,2097.0,1509.93,0.0,PayPal,Processing,True,False
+930,234,26,3,12,696668c3eef41c8eeab0bdb8,3,6999.0,20997.0,1509.93,0.0,PayPal,Processing,True,False
+931,234,18,3,12,696668c3eef41c8eeab0bdb8,3,249.0,747.0,1509.93,0.0,PayPal,Processing,True,False
+932,41,3,30,11,696668c3eef41c8eeab0bdbc,3,799.0,2397.0,455.43,0.0,Cash on Delivery,Delivered,True,True
+933,33,6,11,11,696668c3eef41c8eeab0bdbe,3,3499.0,10497.0,981.22,0.0,Cash on Delivery,Cancelled,False,False
+934,33,22,11,11,696668c3eef41c8eeab0bdbe,3,1299.0,3897.0,981.22,0.0,Cash on Delivery,Cancelled,False,False
+935,33,9,11,11,696668c3eef41c8eeab0bdbe,1,1099.0,1099.0,981.22,0.0,Cash on Delivery,Cancelled,False,False
+936,152,5,3,1,696668c3eef41c8eeab0bdc2,2,699.0,1398.0,227.72,0.0,Credit Card,Delivered,True,True
+937,152,2,3,1,696668c3eef41c8eeab0bdc2,1,999.0,999.0,227.72,0.0,Credit Card,Delivered,True,True
+938,241,25,29,5,696668c3eef41c8eeab0bdc5,2,1999.0,3998.0,502.08,0.0,Credit Card,Delivered,True,True
+939,241,16,29,5,696668c3eef41c8eeab0bdc5,3,429.0,1287.0,502.08,0.0,Credit Card,Delivered,True,True
+940,104,26,15,15,696668c3eef41c8eeab0bdc8,3,6999.0,20997.0,2165.43,0.0,PayPal,Delivered,True,True
+941,104,12,15,15,696668c3eef41c8eeab0bdc8,3,599.0,1797.0,2165.43,0.0,PayPal,Delivered,True,True
+942,256,12,15,1,696668c3eef41c8eeab0bdcb,1,599.0,599.0,113.81,15.0,PayPal,Delivered,True,True
+943,4,27,9,7,696668c3eef41c8eeab0bdcd,3,129.0,387.0,283.58,0.0,Bank Transfer,Delivered,True,True
+944,4,8,9,7,696668c3eef41c8eeab0bdcd,2,1299.0,2598.0,283.58,0.0,Bank Transfer,Delivered,True,True
+945,139,9,20,7,696668c3eef41c8eeab0bdd0,1,1099.0,1099.0,208.81,0.0,PayPal,Refunded,False,False
+946,3,15,9,2,696668c3eef41c8eeab0bdd2,2,799.0,1598.0,423.75,0.0,Bank Transfer,Delivered,True,True
+947,3,16,9,2,696668c3eef41c8eeab0bdd2,1,429.0,429.0,423.75,0.0,Bank Transfer,Delivered,True,True
+948,3,1,9,2,696668c3eef41c8eeab0bdd2,3,1199.0,3597.0,423.75,0.0,Bank Transfer,Delivered,True,True
+949,3,9,9,2,696668c3eef41c8eeab0bdd2,3,1099.0,3297.0,423.75,0.0,Bank Transfer,Delivered,True,True
+950,212,25,11,7,696668c3eef41c8eeab0bdd7,3,1999.0,5997.0,797.43,0.0,PayPal,Delivered,True,True
+951,212,15,11,7,696668c3eef41c8eeab0bdd7,3,799.0,2397.0,797.43,0.0,PayPal,Delivered,True,True
+952,194,19,27,7,696668c3eef41c8eeab0bdda,2,249.0,498.0,712.12,0.0,Bank Transfer,Delivered,True,True
+953,194,6,27,7,696668c3eef41c8eeab0bdda,2,3499.0,6998.0,712.12,0.0,Bank Transfer,Delivered,True,True
+954,215,29,1,13,696668c3eef41c8eeab0bddd,2,39.0,78.0,115.14,0.0,PayPal,Delivered,True,True
+955,215,8,1,13,696668c3eef41c8eeab0bddd,1,1299.0,1299.0,115.14,0.0,PayPal,Delivered,True,True
+956,215,17,1,13,696668c3eef41c8eeab0bddd,2,399.0,798.0,115.14,0.0,PayPal,Delivered,True,True
+957,215,19,1,13,696668c3eef41c8eeab0bddd,1,249.0,249.0,115.14,0.0,PayPal,Delivered,True,True
+958,263,11,21,15,696668c3eef41c8eeab0bde2,2,799.0,1598.0,185.82,0.0,Cash on Delivery,Shipped,True,False
+959,263,20,21,15,696668c3eef41c8eeab0bde2,2,179.0,358.0,185.82,0.0,Cash on Delivery,Shipped,True,False
+960,194,11,28,10,696668c3eef41c8eeab0bde5,2,799.0,1598.0,136.56,0.0,Cash on Delivery,Delivered,True,True
+961,194,28,28,10,696668c3eef41c8eeab0bde5,1,349.0,349.0,136.56,0.0,Cash on Delivery,Delivered,True,True
+962,194,14,28,10,696668c3eef41c8eeab0bde5,1,499.0,499.0,136.56,0.0,Cash on Delivery,Delivered,True,True
+963,194,16,28,10,696668c3eef41c8eeab0bde5,1,429.0,429.0,136.56,0.0,Cash on Delivery,Delivered,True,True
+964,87,2,12,8,696668c3eef41c8eeab0bdea,2,999.0,1998.0,544.29,0.0,PayPal,Delivered,True,True
+965,87,7,12,8,696668c3eef41c8eeab0bdea,2,1999.0,3998.0,544.29,0.0,PayPal,Delivered,True,True
+966,87,22,12,8,696668c3eef41c8eeab0bdea,2,1299.0,2598.0,544.29,0.0,PayPal,Delivered,True,True
+967,118,10,11,10,696668c3eef41c8eeab0bdee,3,1099.0,3297.0,271.84,0.0,PayPal,Delivered,True,True
+968,118,24,11,10,696668c3eef41c8eeab0bdee,1,1299.0,1299.0,271.84,0.0,PayPal,Delivered,True,True
+969,118,16,11,10,696668c3eef41c8eeab0bdee,1,429.0,429.0,271.84,0.0,PayPal,Delivered,True,True
+970,118,28,11,10,696668c3eef41c8eeab0bdee,2,349.0,698.0,271.84,0.0,PayPal,Delivered,True,True
+971,215,12,23,11,696668c3eef41c8eeab0bdf3,3,599.0,1797.0,327.18,0.0,Credit Card,Shipped,True,False
+972,215,21,23,11,696668c3eef41c8eeab0bdf3,3,549.0,1647.0,327.18,0.0,Credit Card,Shipped,True,False
+973,205,23,18,5,696668c3eef41c8eeab0bdf6,2,599.0,1198.0,227.62,0.0,PayPal,Shipped,True,False
+974,40,3,18,9,696668c3eef41c8eeab0bdf8,2,799.0,1598.0,185.82,0.0,Credit Card,Delivered,True,True
+975,40,20,18,9,696668c3eef41c8eeab0bdf8,2,179.0,358.0,185.82,0.0,Credit Card,Delivered,True,True
+976,98,16,1,6,696668c3eef41c8eeab0bdfb,1,429.0,429.0,81.51,15.0,Credit Card,Delivered,True,True
+977,185,1,12,15,696668c3eef41c8eeab0bdfd,2,1199.0,2398.0,417.72,0.0,Credit Card,Refunded,False,False
+978,185,7,12,15,696668c3eef41c8eeab0bdfd,1,1999.0,1999.0,417.72,0.0,Credit Card,Refunded,False,False
+979,134,22,24,10,696668c3eef41c8eeab0be00,1,1299.0,1299.0,237.22,0.0,Cash on Delivery,Shipped,True,False
+980,134,12,24,10,696668c3eef41c8eeab0be00,2,599.0,1198.0,237.22,0.0,Cash on Delivery,Shipped,True,False
+981,210,2,23,10,696668c3eef41c8eeab0be03,1,999.0,999.0,550.67,0.0,Cash on Delivery,Delivered,True,True
+982,210,7,23,10,696668c3eef41c8eeab0be03,3,1999.0,5997.0,550.67,0.0,Cash on Delivery,Delivered,True,True
+983,210,25,23,10,696668c3eef41c8eeab0be03,2,1999.0,3998.0,550.67,0.0,Cash on Delivery,Delivered,True,True
+984,210,23,23,10,696668c3eef41c8eeab0be03,1,599.0,599.0,550.67,0.0,Cash on Delivery,Delivered,True,True
+985,85,12,8,2,696668c3eef41c8eeab0be08,3,599.0,1797.0,137.75,0.0,PayPal,Delivered,True,True
+986,85,19,8,2,696668c3eef41c8eeab0be08,1,249.0,249.0,137.75,0.0,PayPal,Delivered,True,True
+987,85,27,8,2,696668c3eef41c8eeab0be08,1,129.0,129.0,137.75,0.0,PayPal,Delivered,True,True
+988,142,22,9,11,696668c3eef41c8eeab0be0c,3,1299.0,3897.0,597.93,0.0,Credit Card,Delivered,True,True
+989,142,3,9,11,696668c3eef41c8eeab0be0c,3,799.0,2397.0,597.93,0.0,Credit Card,Delivered,True,True
+990,175,13,27,14,696668c3eef41c8eeab0be0f,3,449.0,1347.0,255.93,0.0,Credit Card,Refunded,False,False
+991,143,9,20,1,696668c3eef41c8eeab0be11,3,1099.0,3297.0,2307.93,0.0,Credit Card,Delivered,True,True
+992,143,26,20,1,696668c3eef41c8eeab0be11,3,6999.0,20997.0,2307.93,0.0,Credit Card,Delivered,True,True
+993,237,11,22,4,696668c3eef41c8eeab0be14,3,799.0,2397.0,284.62,0.0,Bank Transfer,Cancelled,False,False
+994,237,23,22,4,696668c3eef41c8eeab0be14,1,599.0,599.0,284.62,0.0,Bank Transfer,Cancelled,False,False
+995,229,7,13,15,696668c3eef41c8eeab0be17,2,1999.0,3998.0,340.35,0.0,Credit Card,Delivered,True,True
+996,229,17,13,15,696668c3eef41c8eeab0be17,3,399.0,1197.0,340.35,0.0,Credit Card,Delivered,True,True
+997,229,20,13,15,696668c3eef41c8eeab0be17,1,179.0,179.0,340.35,0.0,Credit Card,Delivered,True,True
+998,143,5,10,4,696668c3eef41c8eeab0be1b,1,699.0,699.0,243.39,0.0,Credit Card,Delivered,True,True
+999,143,19,10,4,696668c3eef41c8eeab0be1b,3,249.0,747.0,243.39,0.0,Credit Card,Delivered,True,True
+1000,143,3,10,4,696668c3eef41c8eeab0be1b,3,799.0,2397.0,243.39,0.0,Credit Card,Delivered,True,True
+1001,232,13,33,14,696668c3eef41c8eeab0be1f,2,449.0,898.0,170.62,15.0,PayPal,Delivered,True,True
+1002,120,19,20,8,696668c3eef41c8eeab0be21,3,249.0,747.0,174.85,0.0,PayPal,Delivered,True,True
+1003,120,16,20,8,696668c3eef41c8eeab0be21,3,429.0,1287.0,174.85,0.0,PayPal,Delivered,True,True
+1004,120,23,20,8,696668c3eef41c8eeab0be21,2,599.0,1198.0,174.85,0.0,PayPal,Delivered,True,True
+1005,120,13,20,8,696668c3eef41c8eeab0be21,1,449.0,449.0,174.85,0.0,PayPal,Delivered,True,True
+1006,121,18,11,7,696668c3eef41c8eeab0be26,2,249.0,498.0,94.62,7.5,PayPal,Delivered,True,True
+1007,121,19,11,7,696668c3eef41c8eeab0be26,2,249.0,498.0,94.62,7.5,PayPal,Delivered,True,True
+1008,97,18,3,7,696668c3eef41c8eeab0be29,3,249.0,747.0,141.93,15.0,Credit Card,Delivered,True,True
+1009,39,27,23,6,696668c3eef41c8eeab0be2b,2,129.0,258.0,100.42,0.0,Bank Transfer,Delivered,True,True
+1010,39,3,23,6,696668c3eef41c8eeab0be2b,1,799.0,799.0,100.42,0.0,Bank Transfer,Delivered,True,True
+1011,102,15,32,6,696668c3eef41c8eeab0be2e,3,799.0,2397.0,613.89,0.0,PayPal,Delivered,True,True
+1012,102,25,32,6,696668c3eef41c8eeab0be2e,3,1999.0,5997.0,613.89,0.0,PayPal,Delivered,True,True
+1013,102,8,32,6,696668c3eef41c8eeab0be2e,1,1299.0,1299.0,613.89,0.0,PayPal,Delivered,True,True
+1014,177,28,20,12,696668c3eef41c8eeab0be32,1,349.0,349.0,184.54,0.0,Credit Card,Cancelled,False,False
+1015,177,9,20,12,696668c3eef41c8eeab0be32,2,1099.0,2198.0,184.54,0.0,Credit Card,Cancelled,False,False
+1016,177,29,20,12,696668c3eef41c8eeab0be32,1,39.0,39.0,184.54,0.0,Credit Card,Cancelled,False,False
+1017,177,22,20,12,696668c3eef41c8eeab0be32,1,1299.0,1299.0,184.54,0.0,Credit Card,Cancelled,False,False
+1018,135,21,24,10,696668c3eef41c8eeab0be37,3,549.0,1647.0,989.95,0.0,PayPal,Processing,True,False
+1019,135,8,24,10,696668c3eef41c8eeab0be37,3,1299.0,3897.0,989.95,0.0,PayPal,Processing,True,False
+1020,135,24,24,10,696668c3eef41c8eeab0be37,1,1299.0,1299.0,989.95,0.0,PayPal,Processing,True,False
+1021,135,26,24,10,696668c3eef41c8eeab0be37,2,6999.0,13998.0,989.95,0.0,PayPal,Processing,True,False
+1022,161,9,28,9,696668c3eef41c8eeab0be3c,1,1099.0,1099.0,310.74,0.0,PayPal,Delivered,True,True
+1023,161,15,28,9,696668c3eef41c8eeab0be3c,1,799.0,799.0,310.74,0.0,PayPal,Delivered,True,True
+1024,161,22,28,9,696668c3eef41c8eeab0be3c,3,1299.0,3897.0,310.74,0.0,PayPal,Delivered,True,True
+1025,161,18,28,9,696668c3eef41c8eeab0be3c,3,249.0,747.0,310.74,0.0,PayPal,Delivered,True,True
+1026,221,23,12,2,696668c3eef41c8eeab0be41,1,599.0,599.0,113.81,15.0,PayPal,Cancelled,False,False
+1027,253,6,8,8,696668c3eef41c8eeab0be43,3,3499.0,10497.0,1224.93,0.0,Bank Transfer,Delivered,True,True
+1028,253,15,8,8,696668c3eef41c8eeab0be43,3,799.0,2397.0,1224.93,0.0,Bank Transfer,Delivered,True,True
+1029,240,5,8,11,696668c3eef41c8eeab0be46,1,699.0,699.0,110.64,0.0,Cash on Delivery,Delivered,True,True
+1030,240,19,8,11,696668c3eef41c8eeab0be46,1,249.0,249.0,110.64,0.0,Cash on Delivery,Delivered,True,True
+1031,240,11,8,11,696668c3eef41c8eeab0be46,1,799.0,799.0,110.64,0.0,Cash on Delivery,Delivered,True,True
+1032,222,21,31,10,696668c3eef41c8eeab0be4a,1,549.0,549.0,1049.37,0.0,PayPal,Delivered,True,True
+1033,222,6,31,10,696668c3eef41c8eeab0be4a,3,3499.0,10497.0,1049.37,0.0,PayPal,Delivered,True,True
+1034,64,28,19,4,696668c3eef41c8eeab0be4d,3,349.0,1047.0,175.28,0.0,PayPal,Shipped,True,False
+1035,64,17,19,4,696668c3eef41c8eeab0be4d,2,399.0,798.0,175.28,0.0,PayPal,Shipped,True,False
+1036,100,5,11,13,696668c3eef41c8eeab0be50,2,699.0,1398.0,360.52,0.0,Credit Card,Delivered,True,True
+1037,100,15,11,13,696668c3eef41c8eeab0be50,3,799.0,2397.0,360.52,0.0,Credit Card,Delivered,True,True
+1038,27,22,16,15,696668c3eef41c8eeab0be53,3,1299.0,3897.0,579.02,0.0,Cash on Delivery,Delivered,True,True
+1039,27,9,16,15,696668c3eef41c8eeab0be53,2,1099.0,2198.0,579.02,0.0,Cash on Delivery,Delivered,True,True
+1040,103,17,16,6,696668c3eef41c8eeab0be56,3,399.0,1197.0,237.12,0.0,PayPal,Processing,True,False
+1041,103,8,16,6,696668c3eef41c8eeab0be56,1,1299.0,1299.0,237.12,0.0,PayPal,Processing,True,False
+1042,203,4,25,10,696668c3eef41c8eeab0be59,3,899.0,2697.0,289.37,0.0,Bank Transfer,Delivered,True,True
+1043,203,8,25,10,696668c3eef41c8eeab0be59,1,1299.0,1299.0,289.37,0.0,Bank Transfer,Delivered,True,True
+1044,203,19,25,10,696668c3eef41c8eeab0be59,2,249.0,498.0,289.37,0.0,Bank Transfer,Delivered,True,True
+1045,203,11,25,10,696668c3eef41c8eeab0be59,2,799.0,1598.0,289.37,0.0,Bank Transfer,Delivered,True,True
+1046,237,8,17,4,696668c3eef41c8eeab0be5e,3,1299.0,3897.0,740.43,0.0,Cash on Delivery,Shipped,True,False
+1047,136,25,15,12,696668c3eef41c8eeab0be60,1,1999.0,1999.0,398.68,0.0,Credit Card,Delivered,True,True
+1048,136,24,15,12,696668c3eef41c8eeab0be60,1,1299.0,1299.0,398.68,0.0,Credit Card,Delivered,True,True
+1049,136,2,15,12,696668c3eef41c8eeab0be60,3,999.0,2997.0,398.68,0.0,Credit Card,Delivered,True,True
+1050,44,11,30,11,696668c3eef41c8eeab0be64,1,799.0,799.0,232.46,0.0,Bank Transfer,Delivered,True,True
+1051,44,10,30,11,696668c3eef41c8eeab0be64,1,1099.0,1099.0,232.46,0.0,Bank Transfer,Delivered,True,True
+1052,44,1,30,11,696668c3eef41c8eeab0be64,1,1199.0,1199.0,232.46,0.0,Bank Transfer,Delivered,True,True
+1053,44,12,30,11,696668c3eef41c8eeab0be64,3,599.0,1797.0,232.46,0.0,Bank Transfer,Delivered,True,True
+1054,229,23,20,13,696668c3eef41c8eeab0be69,3,599.0,1797.0,341.52,0.0,PayPal,Delivered,True,True
+1055,229,4,20,13,696668c3eef41c8eeab0be69,2,899.0,1798.0,341.52,0.0,PayPal,Delivered,True,True
+1056,73,23,4,15,696668c3eef41c8eeab0be6c,1,599.0,599.0,272.02,0.0,Credit Card,Delivered,True,True
+1057,73,22,4,15,696668c3eef41c8eeab0be6c,1,1299.0,1299.0,272.02,0.0,Credit Card,Delivered,True,True
+1058,73,15,4,15,696668c3eef41c8eeab0be6c,3,799.0,2397.0,272.02,0.0,Credit Card,Delivered,True,True
+1059,167,20,16,11,696668c3eef41c8eeab0be70,3,179.0,537.0,89.49,0.0,Credit Card,Delivered,True,True
+1060,167,27,16,11,696668c3eef41c8eeab0be70,1,129.0,129.0,89.49,0.0,Credit Card,Delivered,True,True
+1061,167,18,16,11,696668c3eef41c8eeab0be70,3,249.0,747.0,89.49,0.0,Credit Card,Delivered,True,True
+1062,139,28,32,5,696668c3eef41c8eeab0be74,1,349.0,349.0,206.39,0.0,Credit Card,Delivered,True,True
+1063,139,8,32,5,696668c3eef41c8eeab0be74,1,1299.0,1299.0,206.39,0.0,Credit Card,Delivered,True,True
+1064,139,11,32,5,696668c3eef41c8eeab0be74,2,799.0,1598.0,206.39,0.0,Credit Card,Delivered,True,True
+1065,139,10,32,5,696668c3eef41c8eeab0be74,1,1099.0,1099.0,206.39,0.0,Credit Card,Delivered,True,True
+1066,12,5,19,11,696668c3eef41c8eeab0be79,1,699.0,699.0,1814.02,0.0,Credit Card,Delivered,True,True
+1067,12,6,19,11,696668c3eef41c8eeab0be79,3,3499.0,10497.0,1814.02,0.0,Credit Card,Delivered,True,True
+1068,12,26,19,11,696668c3eef41c8eeab0be79,3,6999.0,20997.0,1814.02,0.0,Credit Card,Delivered,True,True
+1069,12,25,19,11,696668c3eef41c8eeab0be79,3,1999.0,5997.0,1814.02,0.0,Credit Card,Delivered,True,True
+1070,110,15,25,2,696668c3eef41c8eeab0be7e,3,799.0,2397.0,436.52,0.0,PayPal,Cancelled,False,False
+1071,110,10,25,2,696668c3eef41c8eeab0be7e,2,1099.0,2198.0,436.52,0.0,PayPal,Cancelled,False,False
+1072,2,7,28,1,696668c3eef41c8eeab0be81,1,1999.0,1999.0,294.31,0.0,Credit Card,Delivered,True,True
+1073,2,10,28,1,696668c3eef41c8eeab0be81,1,1099.0,1099.0,294.31,0.0,Credit Card,Delivered,True,True
+1074,42,22,13,2,696668c3eef41c8eeab0be84,1,1299.0,1299.0,246.81,0.0,Credit Card,Delivered,True,True
+1075,209,5,11,8,696668c3eef41c8eeab0be86,1,699.0,699.0,132.81,15.0,PayPal,Delivered,True,True
+1076,80,15,13,13,696668c3eef41c8eeab0be88,1,799.0,799.0,199.22,0.0,PayPal,Delivered,True,True
+1077,80,12,13,13,696668c3eef41c8eeab0be88,2,599.0,1198.0,199.22,0.0,PayPal,Delivered,True,True
+1078,80,11,13,13,696668c3eef41c8eeab0be88,1,799.0,799.0,199.22,0.0,PayPal,Delivered,True,True
+1079,80,5,13,13,696668c3eef41c8eeab0be88,2,699.0,1398.0,199.22,0.0,PayPal,Delivered,True,True
+1080,174,24,27,8,696668c3eef41c8eeab0be8d,2,1299.0,2598.0,441.32,0.0,Cash on Delivery,Delivered,True,True
+1081,174,25,27,8,696668c3eef41c8eeab0be8d,2,1999.0,3998.0,441.32,0.0,Cash on Delivery,Delivered,True,True
+1082,174,12,27,8,696668c3eef41c8eeab0be8d,2,599.0,1198.0,441.32,0.0,Cash on Delivery,Delivered,True,True
+1083,174,14,27,8,696668c3eef41c8eeab0be8d,3,499.0,1497.0,441.32,0.0,Cash on Delivery,Delivered,True,True
+1084,195,4,23,3,696668c3eef41c8eeab0be92,3,899.0,2697.0,512.43,0.0,Bank Transfer,Shipped,True,False
+1085,237,1,33,8,696668c3eef41c8eeab0be94,1,1199.0,1199.0,227.81,0.0,Bank Transfer,Delivered,True,True
+1086,201,1,22,1,696668c3eef41c8eeab0be96,3,1199.0,3597.0,1006.52,0.0,PayPal,Refunded,False,False
+1087,201,6,22,1,696668c3eef41c8eeab0be96,2,3499.0,6998.0,1006.52,0.0,PayPal,Refunded,False,False
+1088,101,21,18,3,696668c3eef41c8eeab0be99,3,549.0,1647.0,631.75,0.0,PayPal,Delivered,True,True
+1089,101,27,18,3,696668c3eef41c8eeab0be99,2,129.0,258.0,631.75,0.0,PayPal,Delivered,True,True
+1090,101,13,18,3,696668c3eef41c8eeab0be99,2,449.0,898.0,631.75,0.0,PayPal,Delivered,True,True
+1091,101,6,18,3,696668c3eef41c8eeab0be99,3,3499.0,10497.0,631.75,0.0,PayPal,Delivered,True,True
+1092,81,28,5,14,696668c3eef41c8eeab0be9e,2,349.0,698.0,260.4,0.0,Credit Card,Delivered,True,True
+1093,81,7,5,14,696668c3eef41c8eeab0be9e,2,1999.0,3998.0,260.4,0.0,Credit Card,Delivered,True,True
+1094,81,18,5,14,696668c3eef41c8eeab0be9e,3,249.0,747.0,260.4,0.0,Credit Card,Delivered,True,True
+1095,81,29,5,14,696668c3eef41c8eeab0be9e,1,39.0,39.0,260.4,0.0,Credit Card,Delivered,True,True
+1096,246,5,7,2,696668c3eef41c8eeab0bea3,1,699.0,699.0,132.81,15.0,PayPal,Delivered,True,True
+1097,123,14,21,1,696668c3eef41c8eeab0bea5,2,499.0,998.0,189.62,15.0,Credit Card,Delivered,True,True
+1098,189,9,2,8,696668c3eef41c8eeab0bea7,1,1099.0,1099.0,1126.95,0.0,Credit Card,Processing,True,False
+1099,189,4,2,8,696668c3eef41c8eeab0bea7,3,899.0,2697.0,1126.95,0.0,Credit Card,Processing,True,False
+1100,189,26,2,8,696668c3eef41c8eeab0bea7,2,6999.0,13998.0,1126.95,0.0,Credit Card,Processing,True,False
+1101,196,19,20,2,696668c3eef41c8eeab0beab,1,249.0,249.0,287.85,0.0,Credit Card,Delivered,True,True
+1102,196,17,20,2,696668c3eef41c8eeab0beab,1,399.0,399.0,287.85,0.0,Credit Card,Delivered,True,True
+1103,196,24,20,2,696668c3eef41c8eeab0beab,3,1299.0,3897.0,287.85,0.0,Credit Card,Delivered,True,True
+1104,131,22,24,8,696668c3eef41c8eeab0beaf,2,1299.0,2598.0,626.62,0.0,PayPal,Delivered,True,True
+1105,131,25,24,8,696668c3eef41c8eeab0beaf,2,1999.0,3998.0,626.62,0.0,PayPal,Delivered,True,True
+1106,28,11,28,7,696668c3eef41c8eeab0beb2,2,799.0,1598.0,303.62,0.0,PayPal,Delivered,True,True
+1107,99,18,21,1,696668c3eef41c8eeab0beb4,3,249.0,747.0,348.65,0.0,PayPal,Delivered,True,True
+1108,99,11,21,1,696668c3eef41c8eeab0beb4,3,799.0,2397.0,348.65,0.0,PayPal,Delivered,True,True
+1109,99,1,21,1,696668c3eef41c8eeab0beb4,3,1199.0,3597.0,348.65,0.0,PayPal,Delivered,True,True
+1110,99,12,21,1,696668c3eef41c8eeab0beb4,1,599.0,599.0,348.65,0.0,PayPal,Delivered,True,True
+1111,203,27,25,5,696668c3eef41c8eeab0beb9,2,129.0,258.0,309.23,0.0,PayPal,Delivered,True,True
+1112,203,2,25,5,696668c3eef41c8eeab0beb9,3,999.0,2997.0,309.23,0.0,PayPal,Delivered,True,True
+1113,217,20,3,11,696668c3eef41c8eeab0bebc,1,179.0,179.0,202.97,0.0,Bank Transfer,Delivered,True,True
+1114,217,2,3,11,696668c3eef41c8eeab0bebc,2,999.0,1998.0,202.97,0.0,Bank Transfer,Delivered,True,True
+1115,217,23,3,11,696668c3eef41c8eeab0bebc,1,599.0,599.0,202.97,0.0,Bank Transfer,Delivered,True,True
+1116,217,14,3,11,696668c3eef41c8eeab0bebc,3,499.0,1497.0,202.97,0.0,Bank Transfer,Delivered,True,True
+1117,6,17,15,11,696668c3eef41c8eeab0bec1,2,399.0,798.0,419.9,0.0,PayPal,Shipped,True,False
+1118,6,25,15,11,696668c3eef41c8eeab0bec1,2,1999.0,3998.0,419.9,0.0,PayPal,Shipped,True,False
+1119,6,21,15,11,696668c3eef41c8eeab0bec1,3,549.0,1647.0,419.9,0.0,PayPal,Shipped,True,False
+1120,6,15,15,11,696668c3eef41c8eeab0bec1,3,799.0,2397.0,419.9,0.0,PayPal,Shipped,True,False
+1121,92,26,15,2,696668c3eef41c8eeab0bec6,1,6999.0,6999.0,873.72,0.0,Bank Transfer,Delivered,True,True
+1122,92,10,15,2,696668c3eef41c8eeab0bec6,2,1099.0,2198.0,873.72,0.0,Bank Transfer,Delivered,True,True
+1123,40,12,24,8,696668c3eef41c8eeab0bec9,2,599.0,1198.0,227.52,0.0,Credit Card,Delivered,True,True
+1124,40,17,24,8,696668c3eef41c8eeab0bec9,3,399.0,1197.0,227.52,0.0,Credit Card,Delivered,True,True
+1125,131,20,31,2,696668c3eef41c8eeab0becc,2,179.0,358.0,68.02,15.0,Cash on Delivery,Delivered,True,True
+1126,240,14,3,10,696668c3eef41c8eeab0bece,2,499.0,998.0,303.57,0.0,PayPal,Delivered,True,True
+1127,240,4,3,10,696668c3eef41c8eeab0bece,2,899.0,1798.0,303.57,0.0,PayPal,Delivered,True,True
+1128,240,12,3,10,696668c3eef41c8eeab0bece,2,599.0,1198.0,303.57,0.0,PayPal,Delivered,True,True
+1129,240,11,3,10,696668c3eef41c8eeab0bece,3,799.0,2397.0,303.57,0.0,PayPal,Delivered,True,True
+1130,118,25,28,4,696668c3eef41c8eeab0bed3,2,1999.0,3998.0,403.46,0.0,PayPal,Delivered,True,True
+1131,118,18,28,4,696668c3eef41c8eeab0bed3,1,249.0,249.0,403.46,0.0,PayPal,Delivered,True,True
+1132,248,13,27,4,696668c3eef41c8eeab0bed6,1,449.0,449.0,707.46,0.0,Cash on Delivery,Processing,True,False
+1133,248,6,27,4,696668c3eef41c8eeab0bed6,2,3499.0,6998.0,707.46,0.0,Cash on Delivery,Processing,True,False
+1134,71,20,29,7,696668c3eef41c8eeab0bed9,2,179.0,358.0,68.02,15.0,Credit Card,Processing,True,False
+1135,260,3,24,7,696668c3eef41c8eeab0bedb,3,799.0,2397.0,310.02,0.0,PayPal,Delivered,True,True
+1136,260,24,24,7,696668c3eef41c8eeab0bedb,1,1299.0,1299.0,310.02,0.0,PayPal,Delivered,True,True
+1137,260,1,24,7,696668c3eef41c8eeab0bedb,1,1199.0,1199.0,310.02,0.0,PayPal,Delivered,True,True
+1138,197,22,8,6,696668c3eef41c8eeab0bedf,3,1299.0,3897.0,503.02,0.0,PayPal,Shipped,True,False
+1139,197,5,8,6,696668c3eef41c8eeab0bedf,2,699.0,1398.0,503.02,0.0,PayPal,Shipped,True,False
+1140,86,23,29,8,696668c3eef41c8eeab0bee2,1,599.0,599.0,113.81,15.0,Cash on Delivery,Delivered,True,True
+1141,110,10,3,7,696668c3eef41c8eeab0bee4,1,1099.0,1099.0,260.87,0.0,Credit Card,Delivered,True,True
+1142,110,21,3,7,696668c3eef41c8eeab0bee4,3,549.0,1647.0,260.87,0.0,Credit Card,Delivered,True,True
+1143,129,3,32,5,696668c3eef41c8eeab0bee7,3,799.0,2397.0,261.73,0.0,PayPal,Shipped,True,False
+1144,129,20,32,5,696668c3eef41c8eeab0bee7,2,179.0,358.0,261.73,0.0,PayPal,Shipped,True,False
+1145,175,11,12,7,696668c3eef41c8eeab0beea,2,799.0,1598.0,265.62,0.0,Cash on Delivery,Cancelled,False,False
+1146,175,23,12,7,696668c3eef41c8eeab0beea,2,599.0,1198.0,265.62,0.0,Cash on Delivery,Cancelled,False,False
+1147,39,19,26,3,696668c3eef41c8eeab0beed,3,249.0,747.0,136.85,0.0,Cash on Delivery,Delivered,True,True
+1148,39,13,26,3,696668c3eef41c8eeab0beed,2,449.0,898.0,136.85,0.0,Cash on Delivery,Delivered,True,True
+1149,39,29,26,3,696668c3eef41c8eeab0beed,1,39.0,39.0,136.85,0.0,Cash on Delivery,Delivered,True,True
+1150,39,17,26,3,696668c3eef41c8eeab0beed,3,399.0,1197.0,136.85,0.0,Cash on Delivery,Delivered,True,True
+1151,48,8,22,2,696668c3eef41c8eeab0bef2,3,1299.0,3897.0,474.52,0.0,Bank Transfer,Delivered,True,True
+1152,48,21,22,2,696668c3eef41c8eeab0bef2,2,549.0,1098.0,474.52,0.0,Bank Transfer,Delivered,True,True
+1153,58,11,29,1,696668c3eef41c8eeab0bef5,2,799.0,1598.0,398.62,0.0,PayPal,Shipped,True,False
+1154,58,3,29,1,696668c3eef41c8eeab0bef5,1,799.0,799.0,398.62,0.0,PayPal,Shipped,True,False
+1155,58,22,29,1,696668c3eef41c8eeab0bef5,3,1299.0,3897.0,398.62,0.0,PayPal,Shipped,True,False
+1156,52,19,29,14,696668c3eef41c8eeab0bef9,1,249.0,249.0,47.31,15.0,Cash on Delivery,Refunded,False,False
+1157,94,29,21,14,696668c3eef41c8eeab0befb,2,39.0,78.0,14.82,15.0,Cash on Delivery,Delivered,True,True
+1158,67,21,22,3,696668c3eef41c8eeab0befd,3,549.0,1647.0,312.93,0.0,PayPal,Shipped,True,False
+1159,14,23,18,13,696668c3eef41c8eeab0beff,2,599.0,1198.0,206.15,0.0,Bank Transfer,Delivered,True,True
+1160,14,16,18,13,696668c3eef41c8eeab0beff,2,429.0,858.0,206.15,0.0,Bank Transfer,Delivered,True,True
+1161,14,1,18,13,696668c3eef41c8eeab0beff,1,1199.0,1199.0,206.15,0.0,Bank Transfer,Delivered,True,True
+1162,17,10,2,1,696668c3eef41c8eeab0bf03,3,1099.0,3297.0,507.73,0.0,Bank Transfer,Refunded,False,False
+1163,17,8,2,1,696668c3eef41c8eeab0bf03,3,1299.0,3897.0,507.73,0.0,Bank Transfer,Refunded,False,False
+1164,17,14,2,1,696668c3eef41c8eeab0bf03,3,499.0,1497.0,507.73,0.0,Bank Transfer,Refunded,False,False
+1165,17,2,2,1,696668c3eef41c8eeab0bf03,2,999.0,1998.0,507.73,0.0,Bank Transfer,Refunded,False,False
+1166,49,11,3,15,696668c3eef41c8eeab0bf08,2,799.0,1598.0,208.68,0.0,Cash on Delivery,Delivered,True,True
+1167,49,15,3,15,696668c3eef41c8eeab0bf08,1,799.0,799.0,208.68,0.0,Cash on Delivery,Delivered,True,True
+1168,49,13,3,15,696668c3eef41c8eeab0bf08,2,449.0,898.0,208.68,0.0,Cash on Delivery,Delivered,True,True
+1169,154,6,13,15,696668c3eef41c8eeab0bf0c,1,3499.0,3499.0,325.04,0.0,Cash on Delivery,Cancelled,False,False
+1170,154,21,13,15,696668c3eef41c8eeab0bf0c,1,549.0,549.0,325.04,0.0,Cash on Delivery,Cancelled,False,False
+1171,154,3,13,15,696668c3eef41c8eeab0bf0c,2,799.0,1598.0,325.04,0.0,Cash on Delivery,Cancelled,False,False
+1172,154,17,13,15,696668c3eef41c8eeab0bf0c,3,399.0,1197.0,325.04,0.0,Cash on Delivery,Cancelled,False,False
+1173,265,15,21,11,696668c3eef41c8eeab0bf11,2,799.0,1598.0,294.17,0.0,PayPal,Delivered,True,True
+1174,265,21,21,11,696668c3eef41c8eeab0bf11,2,549.0,1098.0,294.17,0.0,PayPal,Delivered,True,True
+1175,265,1,21,11,696668c3eef41c8eeab0bf11,2,1199.0,2398.0,294.17,0.0,PayPal,Delivered,True,True
+1176,265,9,21,11,696668c3eef41c8eeab0bf11,1,1099.0,1099.0,294.17,0.0,PayPal,Delivered,True,True
+1177,94,27,13,3,696668c3eef41c8eeab0bf16,1,129.0,129.0,207.29,0.0,PayPal,Delivered,True,True
+1178,94,18,13,3,696668c3eef41c8eeab0bf16,3,249.0,747.0,207.29,0.0,PayPal,Delivered,True,True
+1179,94,3,13,3,696668c3eef41c8eeab0bf16,3,799.0,2397.0,207.29,0.0,PayPal,Delivered,True,True
+1180,75,25,11,13,696668c3eef41c8eeab0bf1a,3,1999.0,5997.0,669.18,0.0,Bank Transfer,Delivered,True,True
+1181,75,28,11,13,696668c3eef41c8eeab0bf1a,3,349.0,1047.0,669.18,0.0,Bank Transfer,Delivered,True,True
+1182,146,24,16,12,696668c3eef41c8eeab0bf1d,2,1299.0,2598.0,493.62,0.0,Credit Card,Delivered,True,True
+1183,203,21,11,13,696668c3eef41c8eeab0bf1f,3,549.0,1647.0,365.28,0.0,Credit Card,Cancelled,False,False
+1184,203,9,11,13,696668c3eef41c8eeab0bf1f,2,1099.0,2198.0,365.28,0.0,Credit Card,Cancelled,False,False
+1185,140,18,14,7,696668c3eef41c8eeab0bf22,3,249.0,747.0,282.24,0.0,Cash on Delivery,Delivered,True,True
+1186,140,10,14,7,696668c3eef41c8eeab0bf22,3,1099.0,3297.0,282.24,0.0,Cash on Delivery,Delivered,True,True
+1187,140,11,14,7,696668c3eef41c8eeab0bf22,1,799.0,799.0,282.24,0.0,Cash on Delivery,Delivered,True,True
+1188,140,9,14,7,696668c3eef41c8eeab0bf22,1,1099.0,1099.0,282.24,0.0,Cash on Delivery,Delivered,True,True
+1189,221,18,31,15,696668c3eef41c8eeab0bf27,3,249.0,747.0,127.4,0.0,PayPal,Delivered,True,True
+1190,221,20,31,15,696668c3eef41c8eeab0bf27,3,179.0,537.0,127.4,0.0,PayPal,Delivered,True,True
+1191,221,12,31,15,696668c3eef41c8eeab0bf27,1,599.0,599.0,127.4,0.0,PayPal,Delivered,True,True
+1192,221,15,31,15,696668c3eef41c8eeab0bf27,1,799.0,799.0,127.4,0.0,PayPal,Delivered,True,True
+1193,45,19,24,13,696668c3eef41c8eeab0bf2c,2,249.0,498.0,158.08,0.0,Bank Transfer,Cancelled,False,False
+1194,45,5,24,13,696668c3eef41c8eeab0bf2c,1,699.0,699.0,158.08,0.0,Bank Transfer,Cancelled,False,False
+1195,45,22,24,13,696668c3eef41c8eeab0bf2c,1,1299.0,1299.0,158.08,0.0,Bank Transfer,Cancelled,False,False
+1196,139,2,10,15,696668c3eef41c8eeab0bf30,1,999.0,999.0,189.81,15.0,Credit Card,Delivered,True,True
+1197,117,1,2,9,696668c3eef41c8eeab0bf32,2,1199.0,2398.0,455.62,0.0,Credit Card,Delivered,True,True
+1198,47,8,3,13,696668c3eef41c8eeab0bf34,1,1299.0,1299.0,422.37,0.0,PayPal,Delivered,True,True
+1199,47,10,3,13,696668c3eef41c8eeab0bf34,3,1099.0,3297.0,422.37,0.0,PayPal,Delivered,True,True
+1200,47,9,3,13,696668c3eef41c8eeab0bf34,3,1099.0,3297.0,422.37,0.0,PayPal,Delivered,True,True
+1201,47,2,3,13,696668c3eef41c8eeab0bf34,1,999.0,999.0,422.37,0.0,PayPal,Delivered,True,True
+1202,215,14,21,11,696668c3eef41c8eeab0bf39,1,499.0,499.0,298.87,0.0,Bank Transfer,Refunded,False,False
+1203,215,22,21,11,696668c3eef41c8eeab0bf39,3,1299.0,3897.0,298.87,0.0,Bank Transfer,Refunded,False,False
+1204,215,5,21,11,696668c3eef41c8eeab0bf39,2,699.0,1398.0,298.87,0.0,Bank Transfer,Refunded,False,False
+1205,215,19,21,11,696668c3eef41c8eeab0bf39,2,249.0,498.0,298.87,0.0,Bank Transfer,Refunded,False,False
+1206,20,12,11,15,696668c3eef41c8eeab0bf3e,1,599.0,599.0,170.81,0.0,Bank Transfer,Delivered,True,True
+1207,20,1,11,15,696668c3eef41c8eeab0bf3e,1,1199.0,1199.0,170.81,0.0,Bank Transfer,Delivered,True,True
+1208,28,28,5,15,696668c3eef41c8eeab0bf41,1,349.0,349.0,579.25,0.0,Cash on Delivery,Processing,True,False
+1209,28,4,5,15,696668c3eef41c8eeab0bf41,2,899.0,1798.0,579.25,0.0,Cash on Delivery,Processing,True,False
+1210,28,26,5,15,696668c3eef41c8eeab0bf41,1,6999.0,6999.0,579.25,0.0,Cash on Delivery,Processing,True,False
+1211,253,5,9,6,696668c3eef41c8eeab0bf45,1,699.0,699.0,99.56,0.0,PayPal,Delivered,True,True
+1212,253,28,9,6,696668c3eef41c8eeab0bf45,1,349.0,349.0,99.56,0.0,PayPal,Delivered,True,True

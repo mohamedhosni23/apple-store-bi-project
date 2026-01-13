@@ -64,6 +64,17 @@ const Header = () => {
               )}
             </Link>
 
+            <Link
+              to="/analytics"
+              className={`transition-colors ${
+                isHomePage 
+                  ? 'text-white/90 hover:text-white' 
+                  : 'text-apple-text hover:text-apple-blue'
+              }`}
+            >
+              📊 Analytics
+            </Link>
+
             {user?.isAdmin && (
               <Link
                 to="/admin/products"
@@ -112,6 +123,12 @@ const Header = () => {
                   {getCartItemsCount()}
                 </span>
               )}
+            </Link>
+            <Link
+              to="/analytics"
+              className={isHomePage ? 'text-white' : 'text-apple-text'}
+            >
+              📊 Analytics
             </Link>
             {user ? (
               <button

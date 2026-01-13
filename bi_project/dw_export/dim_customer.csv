@@ -1,0 +1,34 @@
+customer_id,mongo_id,customer_name,email,registration_date,is_active
+1,696668c2eef41c8eeab0b858,Ahmed Ben Ali,ahmed.benali@gmail.com,2026-01-13,True
+2,696668c2eef41c8eeab0b859,Fatma Trabelsi,fatma.trabelsi@gmail.com,2026-01-13,True
+3,696668c2eef41c8eeab0b85a,Youssef Hammami,youssef.hammami@yahoo.fr,2026-01-13,True
+4,696668c2eef41c8eeab0b85b,Amira Sassi,amira.sassi@hotmail.com,2026-01-13,True
+5,696668c2eef41c8eeab0b85c,Karim Bouazizi,karim.bouazizi@gmail.com,2026-01-13,True
+6,696668c2eef41c8eeab0b85d,Nour Gharbi,nour.gharbi@outlook.com,2026-01-13,True
+7,696668c2eef41c8eeab0b85e,Slim Mejri,slim.mejri@gmail.com,2026-01-13,True
+8,696668c2eef41c8eeab0b85f,Ines Chaabane,ines.chaabane@yahoo.fr,2026-01-13,True
+9,696668c2eef41c8eeab0b860,Mehdi Jebali,mehdi.jebali@gmail.com,2026-01-13,True
+10,696668c2eef41c8eeab0b861,Sarra Belhaj,sarra.belhaj@hotmail.com,2026-01-13,True
+11,696668c2eef41c8eeab0b862,Omar Khedher,omar.khedher@gmail.com,2026-01-13,True
+12,696668c2eef41c8eeab0b863,Rim Mansouri,rim.mansouri@yahoo.fr,2026-01-13,True
+13,696668c2eef41c8eeab0b864,Bilel Nasr,bilel.nasr@gmail.com,2026-01-13,True
+14,696668c2eef41c8eeab0b865,Hela Ferchichi,hela.ferchichi@outlook.com,2026-01-13,True
+15,696668c2eef41c8eeab0b866,Tarek Jaziri,tarek.jaziri@gmail.com,2026-01-13,True
+16,696668c2eef41c8eeab0b867,Mariem Souissi,mariem.souissi@hotmail.com,2026-01-13,True
+17,696668c2eef41c8eeab0b868,Hamza Dridi,hamza.dridi@gmail.com,2026-01-13,True
+18,696668c2eef41c8eeab0b869,Asma Tlili,asma.tlili@yahoo.fr,2026-01-13,True
+19,696668c2eef41c8eeab0b86a,Walid Rezgui,walid.rezgui@gmail.com,2026-01-13,True
+20,696668c2eef41c8eeab0b86b,Salma Brahmi,salma.brahmi@outlook.com,2026-01-13,True
+21,696668c2eef41c8eeab0b86c,Fares Chouchane,fares.chouchane@gmail.com,2026-01-13,True
+22,696668c2eef41c8eeab0b86d,Olfa Messaoud,olfa.messaoud@hotmail.com,2026-01-13,True
+23,696668c2eef41c8eeab0b86e,Rami Ammar,rami.ammar@gmail.com,2026-01-13,True
+24,696668c2eef41c8eeab0b86f,Nadia Kouki,nadia.kouki@yahoo.fr,2026-01-13,True
+25,696668c2eef41c8eeab0b870,Zied Mbarki,zied.mbarki@gmail.com,2026-01-13,True
+26,696668c2eef41c8eeab0b871,Leila Feki,leila.feki@outlook.com,2026-01-13,True
+27,696668c2eef41c8eeab0b872,Anis Selmi,anis.selmi@gmail.com,2026-01-13,True
+28,696668c2eef41c8eeab0b873,Houda Zammel,houda.zammel@hotmail.com,2026-01-13,True
+29,696668c2eef41c8eeab0b874,Khaled Baccar,khaled.baccar@gmail.com,2026-01-13,True
+30,696668c2eef41c8eeab0b875,Yasmine Turki,yasmine.turki@yahoo.fr,2026-01-13,True
+31,696668c2eef41c8eeab0b876,Sofien Gharbi,sofien.gharbi@gmail.com,2026-01-13,True
+32,696668c2eef41c8eeab0b877,Rania Ayed,rania.ayed@outlook.com,2026-01-13,True
+33,696668c2eef41c8eeab0b878,Nizar Haddad,nizar.haddad@gmail.com,2026-01-13,True

@@ -1,0 +1,30 @@
+# ============================================
+# APPLE STORE SOUSSE - BI PROJECT DEPENDENCIES
+# ============================================
+
+# MongoDB connection
+pymongo>=4.6.0
+
+# Data manipulation
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Database connections
+sqlalchemy>=2.0.0
+
+# For MySQL support (uncomment if using MySQL)
+# pymysql>=1.1.0
+
+# For PostgreSQL support (uncomment if using PostgreSQL)
+# psycopg2-binary>=2.9.0
+
+# Environment variables
+python-dotenv>=1.0.0
+
+# Optional: For data visualization in Python
+# matplotlib>=3.7.0
+# seaborn>=0.12.0
+
+# Optional: For Jupyter notebooks
+# jupyter>=1.0.0
+# notebook>=7.0.0

@@ -8,7 +8,7 @@ import CartPage from './pages/CartPage';
 import ProductList from './pages/admin/ProductList';
 import CreateProductPage from './pages/admin/CreateProductPage';
 import EditProductPage from './pages/admin/EditProductPage';
-
+import PowerBIDashboard from './pages/PowerBIDashboard';
 function App() {
   return (
     <div className="min-h-screen bg-white">
@@ -22,6 +22,7 @@ function App() {
         <Route path="/admin/products" element={<ProductList />} />
         <Route path="/admin/products/create" element={<CreateProductPage />} />
         <Route path="/admin/products/edit/:id" element={<EditProductPage />} />
+        <Route path="/analytics" element={<PowerBIDashboard />} />
       </Routes>
     </div>
   );

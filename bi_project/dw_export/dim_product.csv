@@ -1,0 +1,30 @@
+product_id,mongo_id,product_name,brand,category,current_price,description,stock_quantity
+1,696668c3eef41c8eeab0b87a,iPhone 15 Pro Max,Apple,Smartphones,1199.0,"iPhone 15 Pro Max with A17 Pro chip, titanium design, 6.7-inch display, and advanced camera system.",25
+2,696668c3eef41c8eeab0b87b,iPhone 15 Pro,Apple,Smartphones,999.0,"iPhone 15 Pro featuring A17 Pro chip, titanium design, Action button, and 48MP camera.",30
+3,696668c3eef41c8eeab0b87c,iPhone 15,Apple,Smartphones,799.0,"iPhone 15 with Dynamic Island, A16 Bionic chip, and 48MP camera system.",40
+4,696668c3eef41c8eeab0b87d,iPhone 15 Plus,Apple,Smartphones,899.0,"iPhone 15 Plus with larger 6.7-inch display, A16 Bionic, and all-day battery life.",35
+5,696668c3eef41c8eeab0b87e,iPhone 14,Apple,Smartphones,699.0,"iPhone 14 with A15 Bionic chip, improved camera, and Crash Detection.",45
+6,696668c3eef41c8eeab0b87f,"MacBook Pro 16"" M3 Max",Apple,Laptops,3499.0,"MacBook Pro 16-inch with M3 Max chip, 36GB RAM, stunning Liquid Retina XDR display.",10
+7,696668c3eef41c8eeab0b880,"MacBook Pro 14"" M3 Pro",Apple,Laptops,1999.0,"MacBook Pro 14-inch with M3 Pro chip, 18GB RAM, perfect for professionals.",15
+8,696668c3eef41c8eeab0b881,"MacBook Air 15"" M3",Apple,Laptops,1299.0,"MacBook Air 15-inch with M3 chip, stunningly thin design, and all-day battery.",20
+9,696668c3eef41c8eeab0b882,"MacBook Air 13"" M3",Apple,Laptops,1099.0,"MacBook Air 13-inch with M3 chip, incredibly portable with amazing performance.",25
+10,696668c3eef41c8eeab0b883,"iPad Pro 12.9"" M2",Apple,Tablets,1099.0,"iPad Pro 12.9-inch with M2 chip, Liquid Retina XDR display, and Apple Pencil hover.",18
+11,696668c3eef41c8eeab0b884,"iPad Pro 11"" M2",Apple,Tablets,799.0,"iPad Pro 11-inch with M2 chip, portable powerhouse for creative professionals.",22
+12,696668c3eef41c8eeab0b885,iPad Air M1,Apple,Tablets,599.0,"iPad Air with M1 chip, 10.9-inch Liquid Retina display, and all-day battery.",30
+13,696668c3eef41c8eeab0b886,iPad 10th Generation,Apple,Tablets,449.0,"iPad 10th generation with A14 Bionic chip, colorful design, and USB-C.",35
+14,696668c3eef41c8eeab0b887,iPad Mini 6,Apple,Tablets,499.0,"iPad mini with A15 Bionic, 8.3-inch Liquid Retina display, ultra-portable.",28
+15,696668c3eef41c8eeab0b888,Apple Watch Ultra 2,Apple,Wearables,799.0,"Apple Watch Ultra 2 with S9 SiP, precision dual-frequency GPS, and 36-hour battery.",12
+16,696668c3eef41c8eeab0b889,Apple Watch Series 9 45mm,Apple,Wearables,429.0,"Apple Watch Series 9 45mm with S9 chip, Double Tap gesture, and brighter display.",25
+17,696668c3eef41c8eeab0b88a,Apple Watch Series 9 41mm,Apple,Wearables,399.0,"Apple Watch Series 9 41mm, perfect size with all advanced health features.",30
+18,696668c3eef41c8eeab0b88b,Apple Watch SE 2nd Gen,Apple,Wearables,249.0,Apple Watch SE with essential features at an affordable price.,40
+19,696668c3eef41c8eeab0b88c,AirPods Pro 2nd Gen,Apple,Audio,249.0,"AirPods Pro with Active Noise Cancellation, Adaptive Transparency, and USB-C.",50
+20,696668c3eef41c8eeab0b88d,AirPods 3rd Gen,Apple,Audio,179.0,AirPods 3rd generation with Spatial Audio and Adaptive EQ.,55
+21,696668c3eef41c8eeab0b88e,AirPods Max,Apple,Audio,549.0,"AirPods Max with high-fidelity audio, Active Noise Cancellation, and premium design.",15
+22,696668c3eef41c8eeab0b88f,"iMac 24"" M3",Apple,Desktops,1299.0,"iMac 24-inch with M3 chip, stunning 4.5K Retina display, and vibrant colors.",12
+23,696668c3eef41c8eeab0b890,Mac Mini M2,Apple,Desktops,599.0,"Mac mini with M2 chip, compact powerhouse for any workspace.",20
+24,696668c3eef41c8eeab0b891,Mac Mini M2 Pro,Apple,Desktops,1299.0,"Mac mini with M2 Pro chip, professional performance in a mini form factor.",10
+25,696668c3eef41c8eeab0b892,Mac Studio M2 Max,Apple,Desktops,1999.0,"Mac Studio with M2 Max chip, extraordinary performance for professionals.",8
+26,696668c3eef41c8eeab0b893,Mac Pro M2 Ultra,Apple,Desktops,6999.0,"Mac Pro with M2 Ultra chip, ultimate power for the most demanding workflows.",3
+27,696668c3eef41c8eeab0b894,Apple Pencil 2nd Gen,Apple,Accessories,129.0,Apple Pencil 2nd generation with pixel-perfect precision and magnetic attachment.,60
+28,696668c3eef41c8eeab0b895,Magic Keyboard for iPad Pro,Apple,Accessories,349.0,"Magic Keyboard with floating design, trackpad, and backlit keys.",25
+29,696668c3eef41c8eeab0b896,MagSafe Charger,Apple,Accessories,39.0,MagSafe Charger for effortless wireless charging of iPhone and AirPods.,100
