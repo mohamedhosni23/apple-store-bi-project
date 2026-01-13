@@ -87,14 +87,22 @@ Before you begin, ensure you have the following installed:
 
 1. **Create a `.env` file in the `server` directory:**
    ```env
-   MONGO_URI=your_mongodb_connection_string
+   MONGO_URI=mongodb://localhost:27017/applestoresousse
+   DW_URI=sqlite:///apple_store_datawarehouse.db
    PORT=5000
    JWT_SECRET=your_jwt_secret_key
    ```
 
-   **Example MongoDB URI:**
-   - Local: `mongodb://localhost:27017/applestoresousse`
-   - Atlas: `mongodb+srv://username:password@cluster.mongodb.net/applestoresousse?retryWrites=true&w=majority`
+   **Note:** If your MongoDB URI is different (like MongoDB Atlas), update it accordingly.
+   
+   **Environment Variables:**
+   - `MONGO_URI`: MongoDB connection string for the main database
+   - `DW_URI`: SQLite connection string for the data warehouse database
+   - `PORT`: Server port (default: 5000)
+   - `JWT_SECRET`: Secret key for JWT token signing (use a strong random string)
+   
+   **MongoDB Atlas Example:**
+   - `MONGO_URI=mongodb+srv://username:password@cluster.mongodb.net/applestoresousse?retryWrites=true&w=majority`
 
 2. **Create the `img` directory** (if it doesn't exist):
    ```bash
